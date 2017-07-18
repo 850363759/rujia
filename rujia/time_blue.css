@@ -1,0 +1,47 @@
+@charset "utf-8";
+.date_box{  position:absolute; left:50%; margin-left:-335px;  top:176px;width:658px; height:377px;background-color:#fff; border: 1px solid #d4d4d4; border-radius:5px; -webkit-border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;  z-index:100;font-family:"微软雅黑";color:#000; font-size:12px; display:none;}
+.date_box div.zb_jt_up{ width: 20px;height: 10px; overflow:hidden; display: inline-block;left:50%;margin-left:-292px;position:absolute;top:-8px;}
+.date_box i.jt_top{background-position:-294px 0;width:400px; height: 322px;position: relative\9;left:-294px\9;top: 0px\9;}
+.date_float{ margin-right:18px;width:288px; }
+#time_first{ margin:0px 40px 0 18px;}
+#time_second{float:right;}
+.date_top{text-align:center; position:relative; line-height:18px; font-size:20px; color:#535353; width:288px; padding:23px 0px 26px; float:left;}
+
+
+
+.date_left_j{ cursor:pointer;width:25px;height:25px; position:absolute; left:0px; top:17px; overflow:hidden; background:#fff; border:1px solid #90704D; border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;-o-border-radius:50%; }
+.date_left_j div.date_jt_icon{ width: 10px; height: 16px; overflow:hidden; margin:4px 0 0 6px;}
+.date_left_j div.date_jt_icon i{ background-position:-89px -24px; width: 400px;height:322px; position: relative\9;left:-89px\9;
+top: -24px\9;}
+.date_left_j.jton{background:#90704D;}
+.date_left_j.jton div.date_jt_icon i{background-position:-103px -24px; width: 400px;height:322px; position: relative\9;left:-103px\9;
+top: -24px\9;}
+.date_right_j{ cursor:pointer;width:25px;height:25px; position:absolute; right:0; top:17px; overflow:hidden;background:#fff; border:1px solid #90704D; border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;-o-border-radius:50%; }
+.date_right_j div.date_jt_icon{ width: 10px; height: 16px; overflow:hidden; margin:4px 0 0 8px;}
+.date_right_j div.date_jt_icon i{background-position:-117px -24px;width: 400px;height:322px; position: relative\9;left:-117px\9;
+top: -24px\9;}
+.date_right_j.jton{background:#90704D;}
+.date_right_j.jton div.date_jt_icon i{background-position:-131px -24px;width: 400px;height:322px; position: relative\9;left:-131px\9;
+top: -24px\9;}
+.date_close{ background:url(home)/*tpa=http://www.bthhotels.com/Content/newimages/pb/xl_close.png*/ left center no-repeat;width:32px; height:32px; overflow:hidden; cursor:pointer; position:absolute; left:50%; top:21px; margin-left:350px;overflow:hidden;}
+.date_top code{ font-family:"微软雅黑";}
+.date_top label{font-family:"微软雅黑";}
+
+.date_dl{ width:288px; float:left; height:299px; overflow:hidden;}
+.date_dl dt{ width:288px; float:left;overflow:hidden; height:21px; line-height:21px; font-size:14px; color:#b0b0b0; margin-bottom:12px;}
+.date_dl dt a{ font-size:14px;color:#535353; cursor:default; width:41px; float:left; _display:inline; text-align:center;}
+
+.date_dl dd{ width:288px; float:left; overflow:hidden; height:277px;line-height:42px;color:#ee7307; text-align:center;}
+.date_dl dd a{cursor:pointer; width:40px; height:40px;float:left;_display:inline; text-align:center; font-size: 16px; line-height:40px; color:#535353; background-color:#fff; border:1px solid #bcbcbc; margin-right:-1px;margin-bottom:-1px;}
+.date_dl dd a:hover{color:#fff;  background-color:#C0191F;}
+.date_dl dd a.date_ddhui{color:#d4d4d4; cursor:default; background-color:#fff;}
+
+.date_check{ width:290px; padding:116px 0px 104px 0px; font:normal 20px/20px "微软雅黑"; color:#b0b0b0; text-align:center;}
+.date_check b{display:block; font:normal 100px/100px "微软雅黑"; color:#8d8b00; padding:18px 0px 23px 0px;}
+.date_check span{ font-size:16px;}
+.date_check code{ font-size:16px; padding-left:21px;}
+.date_box.right div.zb_jt_up{margin-left:-85px;}
+.date_dl dd a.hover_before{ color:#000; background:#FFEAEA;}
+.date_dl dd a.date_cur,.date_dl dd a.hover_before:hover{color:#fff;  background-color:#C0191F;}
+.date_dl dd a.cur{color:#d4d4d4; cursor:default; background-color:#fff;}
+.sy_pop_fix .date_box.right div.zb_jt_up{margin-left:-70px;}

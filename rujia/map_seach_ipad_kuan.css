@@ -1,0 +1,44 @@
+@charset "utf-8";
+@media screen and (min-width:1000px) and (max-width:1199px) {
+   
+    .zb_pop{
+        display: none;
+        width: 800px;
+        margin-left: 190px;
+    }
+
+    .date_box {
+        top: 74px;
+        margin-left: 336px;
+        left:-100px;
+        z-index: 1000;
+    }
+
+    .keyword_pop ,.keyword_pop_two{
+        left: 0;
+        margin-left: 100px;
+        top: 72px;
+        z-index: 900;
+        width: 800px!important;
+        display: none;
+    }
+
+
+
+   .keyword_pop_fix ul,keyword_sq_list ul,.keyword_pop_two_fix ul{
+       width:800px;
+   }
+
+   .keyword_sq_list li{
+       width:130px;
+   }
+
+   .keyword_wz_list li{
+       width:200px;
+   }
+   .keyword_xzq_list li{
+       width:120px;
+   }
+   .date_box div.zb_jt_up{margin-left:-262px;}
+   .date_box.right div.zb_jt_up{margin-left:;-95px;}
+}

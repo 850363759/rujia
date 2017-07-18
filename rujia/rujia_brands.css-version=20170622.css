@@ -1,0 +1,794 @@
+body{overflow-x:hidden}
+.gd_homes .banner ul li{height:698px;}
+.gd_homes #home_banner a.prev{margin-top:0px;}
+.gd_homes #home_banner a.next{margin-top:0px;}
+.gd_homes .home_book_box{margin:154px 0 0 -600px}
+.gd_homes .keyword_pop{top:314px;}
+.gd_homes .keyword_pop_two{top:314px;}
+.gd_homes .city_none{top:314px;}
+.gd_homes .zb_pop{top:314px;}
+.gd_homes .city_none{top:314px;}
+.gd_homes .date_box{top:314px;}
+.top_logo{width:178px;height:60px;margin-right:32px;overflow:hidden;margin-top:5px;cursor:default;}
+/*.gd_home_top .top_login_after{right:0px;top:9px;margin-left:473px;}*/
+.gd_home_top .top_login_box li a{padding:0 4px}
+.list_logos{background:url(Fill_Copy.png)/*tpa=http://images.homeinns.com/image/web/brand/Fill_Copy.png*/ no-repeat;background-position:266px 50%;}
+.gd_home_content .images_list li{margin-left:15px}
+.gd_homes .gd_home_top .login_icon{color:#ffffff}
+.gd_homes .gd_home_top .top_login_after a.login_txt{color:#ffffff}
+.gd_homes .gd_home_top .top_login_box code{color:#ffffff}
+.gd_homes .gd_home_top .top_login_after a.login_quit{color:#ffffff}
+.gd_homes .gd_home_top .top_login_after{padding-top:50px}
+.gd_homes .gd_home_top .top_login_list{right:-2px;top:75px;}
+.gd_homes .gd_home_top .top_login_xl{top:75px}
+.gd_homes.gd_home_top .top_login_box{color:#ffffff}
+
+.gd_homes .banner ul.fix{height:700px !important}
+/*商旅型开始*/
+	.Hotel_introduce{padding-top:87px;}
+	.brands_image{width:280px;height:68px;overflow:hidden;margin:0 auto}
+	.home_title{font-size: 20px;color: #535353;letter-spacing: 0;text-align: center;margin:0 auto;margin-top:6px;}
+	.choose_image2{margin:0 45px;}
+	.exhibit_image{margin-top:26px}
+	.text_introduce{width:1118px;padding-bottom:83px;margin:0 auto;margin-top:32px;}
+	.text_introduce p{line-height:30px;font-size: 14px;color: #535353;letter-spacing: 0;text-align: center;}
+	/*推荐酒店*/
+	.hotel_choose{padding-top:70px;padding-bottom:121px;background:#f9f8f6;width:100%;}
+	.hotel_choose h3{width:100%;text-align: center;height:40px;line-height:40px;font-size: 30px;color: #535353;letter-spacing: -0.73px;}
+	.hotel_choose .list_image{width:1200px;margin:0 auto;overflow: hidden;zoom: 1;margin-top:48px}
+	.hotel_choose .list_image li{width:370px;float:left;margin-left:45px}
+	.hotel_choose .list_image li a{display:block;width:370px;height:370px;overflow:hidden;}
+	.hotel_choose .list_image li a img{transition: all 1.2s ease 0s;width:100%;height:100%}
+	.hotel_choose .list_image li a img.active{transform: scale3d(1.1, 1.1, 1.1);}
+	.hotel_choose .list_image li p{margin-top:18px;line-height:31px;text-align: center;font-size: 24px;color: #535353;letter-spacing: -0.58px;}
+/*商旅型结束*/
+
+/*商旅型_如家*/
+.rujia_home .nav li.navon, .rujia_home .nav li.naon{border-color: #E06A10;color:#E06A10;} 
+.rujia_home .english{background:#E06A10}
+.rujia_home .home_cx_button a{background:#E06A10}
+.rujia_home .top_logo .brands_logo{background-position:0 0;left:-0px\9;top:-0px\9;position:relative\9;}
+.rujia_home .Hotel_introduce .brands_logo{background-position:30px -58px;left:30px\9;top:-58px\9;position:relative\9;}
+.rujia_home #home_banner .dots li.active{background:#E06A10}
+.rujia_home #home_banner a.unslider-arrow06.redon{  background: #E06A10;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.rujia_home .home_cx_button input{background:#E06A10}
+
+/*商旅型_莫泰*/
+.motai_home .nav li.navon, .motai_home .nav li.naon{border-color: #10773D;color:#10773D;}
+.motai_home .top_logo .brands_logo{background-position:0 -129px;left:0\9;top:-129px\9;position:relative\9;}
+.motai_home .Hotel_introduce .brands_logo{background-position:30px -189px;left:30px\9;top:-189px\9;position:relative\9;}
+.motai_home #home_banner .dots li.active{background:#10773D}
+.motai_home #home_banner a.unslider-arrow06.redon{  background: #10773D;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.motai_home .home_cx_button input{background:#10773D}
+.motai_home .home_cx_button a{background: #10773D}
+/*商旅型_云上四季*/
+.yunshangsiji_home .nav li.navon, .yunshangsiji_home .nav li.naon{border-color: #931F23;color:#931F23;}
+.yunshangsiji_home .english{background:#931F23}
+.yunshangsiji_home .home_cx_button a{background:#931F23}
+.yunshangsiji_home .top_logo .brands_logo{background-position:0 -263px;left:-0px\9;top:-263px\9;position:relative\9;}
+.yunshangsiji_home .Hotel_introduce .brands_logo{background-position:30px -326px;left:30px\9;top:-326px\9;position:relative\9;}
+.yunshangsiji_home #home_banner .dots li.active{background:#931F23}
+.yunshangsiji_home #home_banner a.unslider-arrow06.redon{  background: #931F23;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.yunshangsiji_home .home_cx_button input{background:#931F23}
+/*商旅型_派泊*/
+.paibo_home .nav li.navon, .paibo_home .nav li.naon{border-color: #9A9400;color:#9A9400;}
+.paibo_home .english{background:#9A9400}
+.paibo_home .top_logo{width:187px;}
+.paibo_home .home_cx_button a{background:#9A9400}
+.paibo_home .top_logo .brands_logo{background-position:0 -393px;left:-0px\9;top:-393px\9;position:relative\9;}
+.paibo_home .Hotel_introduce .brands_image{margin-bottom:17px}
+.paibo_home .Hotel_introduce .brands_logo{background-position:17px -458px;left:17px\9;top:-458px\9;position:relative\9;}
+.paibo_home #home_banner .dots li.active{background:#9A9400}
+.paibo_home #home_banner a.unslider-arrow06.redon{  background: #9A9400;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.paibo_home .home_cx_button input{background:#9A9400}
+/*商旅型_欣燕都*/
+.xinyandu_home .nav li.navon, .xinyandu_home .nav li.naon{border-color: #895C25;color:#895C25;}
+.xinyandu_home .home_cx_button a{background:#895C25}
+.xinyandu_home .top_logo .brands_logo{background-position:0 -530px;left:-0px\9;top:-530px\9;position:relative\9;}
+.xinyandu_home .Hotel_introduce .brands_image{margin-bottom:27px}
+.xinyandu_home .Hotel_introduce .brands_logo{background-position:30px -595px;left:30px\9;top:-595px\9;position:relative\9;}
+.xinyandu_home #home_banner .dots li.active{background: #895c25;}
+.xinyandu_home #home_banner a.unslider-arrow06.redon{  background: #895C25;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.xinyandu_home .home_cx_button input{background:#895C25}
+/*商旅型_雅客怡家*/
+.yakeyijia_home .nav li.navon, .yakeyijia_home .nav li.naon{border-color: #6D4781;color:#6D4781;}
+.yakeyijia_home .english{background:#6D4781}
+.yakeyijia_home .top_logo .brands_logo{background-position:0 -666px;left:0px\9;top:-666px\9;position:relative\9;}
+.yakeyijia_home .Hotel_introduce .brands_image{margin-bottom:23px}
+.yakeyijia_home .Hotel_introduce .brands_logo{background-position:50px -729px;left:50px\9;top:-729px\9;position:relative\9;}
+.yakeyijia_home #home_banner .dots li.active{background:#6D4781}
+.yakeyijia_home #home_banner a.unslider-arrow06.redon{  background: #6D4781;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.yakeyijia_home .home_cx_button input{background:#6D4781}
+.yakeyijia_home .home_cx_button a{background:#6D4781}
+/*商旅型_驿居酒店*/
+.yiju_home .nav li.navon, .yiju_home .nav li.naon{border-color: #003764;color:#003764;}
+.yiju_home .english{background:#003764}
+.yiju_home .home_cx_button a{background:#003764}
+.yiju_home .top_logo .brands_logo{background-position:0 -803px;left:0px\9;top:-803px\9;position:relative\9;}
+.yiju_home .Hotel_introduce .brands_image{margin-bottom:12px}
+.yiju_home .Hotel_introduce .brands_logo{background-position:37px -871px;left:37px\9;top:-871px\9;position:relative\9;}
+.yiju_home #home_banner .dots li.active{background:#003764}
+.yiju_home #home_banner a.unslider-arrow06.redon{  background: #003764;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.yiju_home .home_cx_button input{background:#003764}
+
+
+
+
+/*中高端开始*/
+.Popular_hotel{padding-top:66px}
+.Popular_hotel_title{text-align: center;font-size: 30px;color: #595757;height:40px;line-height:40px;margin-bottom:11px;}
+.more {width:238px;height:17px;margin:0 auto}
+.more strong{width:95px;float:left;background:#979797;height:1px;margin-top:8px;}
+.more span{color: #979797;margin:0 11px;border-radius:1px;font-size:22px;float:left;text-align: center;line-height:17px;}
+
+.Popular_hotel_exhibit{margin-top:32px;}
+.hotel_exhibit1, .hotel_exhibit3{width:295px;height:500px;float:left;overflow:hidden;padding-bottom:56px;}
+.hotel_exhibit2{width:590px;height:500px;margin: 0 9px;float:left}
+.price_exhibit{position:relative;text-align: center;margin-bottom:10px;}
+.zgd_exhibit_image{width:100%;height:100%;display: block;}
+.exhibit_mask_l{display:none;position:absolute;height:100%;width:100%;left:0;top:0;z-index: 20;background-color:#ffffff;filter: alpha(opacity=89);
+  -moz-opacity: 0.8;
+  opacity: 0.8;}
+.exhibit_cont{position:absolute;z-index: 30;cursor:pointer;text-align:center;height:100%;width:100%;color:#ffffff;font-size:24px;left:0;top:0}
+.exhibit_cont p{margin-bottom:10px;font-size:24px;line-height:22px;color:#ffffff}
+.exhibit_cont .exhibit_home_title{font-size:24px;color: #FDFDFD;margin-top:30px;font-weight:bold}
+.exhibit_cont strong{display:block;height:20px;line-height:20px;margin-bottom:14px;color: #FFFFFF;font-size:14px;}
+.exhibit_cont span{display:block;height:30px;line-height:30px;color:#ffffff;margin-bottom:7px}
+.exhibit_cont a{display:none;width:89px;height:23px;line-height:25px;margin:0 auto;font-size:14px;color: #00304C;border:1px solid #00304C;}
+.exhibit_mask_l.active{display:block}
+.exhibit_cont .exhibit_home_title.active{color: #2F2E2E;}
+.exhibit_cont p.active{color: #2F2E2E;}
+.exhibit_cont strong.active{color: #2F2E2E;}
+.exhibit_cont span.active{color: #C0191F;}
+.hotel_exhibit2 .price_exhibit{width:100%;height:100%;}
+.hotel_exhibit2 .exhibit_cont{width:315px;height:329px;position:absolute;top:73px;left:136px;}
+.hotel_exhibit2 .exhibit_mask_l{width:315px;height:329px;  position: absolute;top: 73px;left: 136px;}
+.hotel_exhibit2 .exhibit_home_title{margin-top:30px}
+.hotel_exhibit2 .exhibit_cont p{margin-bottom:16px}
+.hotel_exhibit2 .exhibit_cont strong{margin-bottom:8px;height:35px;line-height:35px;}
+.hotel_exhibit2 .exhibit_cont span{margin-bottom:22px;height:44px;line-height:44px;font-size: 33px;}
+.hotel_exhibit2 .exhibit_cont a{width:114px;height:37px;line-height:35px;font-size:20px}
+.hotel_exhibit3 .exhibit_cont{padding-top:110px;}
+
+.advertising_images{position:relative;height:803px;margin-bottom:82px}
+.advertising_images img{margin:0 auto}
+.home_ty_img{position:absolute;width:100%;height:803px;text-align:center;left:0;top:0}
+.home_ty_img p{height:85px;font-size:64px;color:#ffffff;margin-top:203px;margin-bottom:182px;}
+.home_ty_img span{font-size: 18px;color: #FFFFFF;margin-top:26px;display:block;height:24px;line-height:24px;}
+.item_logo{width:316px;height:80px;overflow:hidden;margin:0 auto}
+.item_logo .brands_logo{background-position:-250px -1104px;left:-250px\9;top:-1104px\9;position:relative\9}
+.home_ty_img a{display:block;margin:0 auto;margin-top:40px;font-size: 24px;width:220px;height:48px;line-height:48px;text-align: center;color:#ffffff;border:1px solid #ffffff}
+
+/*优惠促销*/
+.images_list{width:100%;height:200px;margin-top:31px;}
+.images_list li{height:200px;width:390px;position:relative;float:left;cursor:pointer;overflow: hidden;margin-left:15px;}
+.images_list li img{transition: all 1.2s ease 0s;width:390px;height:200px}
+.images_list li div{
+	  position: absolute;
+      width:100%;
+      text-align:center;
+	  bottom: 9px;
+	  z-index: 9999;
+	  font-size: 18px;
+	  color: #fff;
+	  line-height: 24px;
+	  font-weight: normal;
+	}
+.images_list li p{
+  height: 120px;
+  filter: alpha(opacity=89);
+  -moz-opacity: 0.89;
+  opacity: 0.89;
+  background-image: -webkit-linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%);
+  background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%);
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  background: #201f1e\9;
+  height: 43px\9;
+  background: #201f1e\9\0;
+  height: 43px\9\0;}
+.images_items{ transition: All 0.4s ease-in-out;-webkit-transition: All 0.4s }
+.images_list li div.active{margin-bottom:13px;}
+.images_list li img.active{transform: scale3d(1.1, 1.1, 1.1);-webkit-tranform:scale3d(1.1,1.1,1.1)}
+/*中高端结束*/
+
+/*中高端_和颐至尊*/
+.hyzz_home .nav li.navon, .hyzz_home .nav li.naon{border-color:  #847867;color: #847867;}
+.hyzz_home .home_cx_button a{background: #C4A959;}
+.hyzz_home .top_login .login_line{color: #847867}
+.hyzz_home .top_logo .brands_logo{background-position:-250px -995px;left:-250px\9;top:-995px\9;position:relative\9;}
+.hyzz_home #home_banner a.unslider-arrow06.redon{  background: #C4A959;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.hyzz_home .home_cx_button input{  background: #C4A959;}
+.hyzz_home #home_banner .dots li.active{background:#931F23}
+.hyzz_home .home_ty_img a.active{background:#C4A959;border:1px solid #C4A959}
+.hyzz_home .exhibit_cont a{border:1px solid #C4A959;color:#C4A959}
+.hyzz_home .exhibit_cont a.active{color:#ffffff;background:#C4A959}
+/*中高端_和颐至格*/
+.hyzg_home .nav li.navon, .hyzg_home .nav li.naon{border-color:#4395B1;color:#4395B1;}
+.hyzg_home .english{background:  #4395B1}
+.hyzg_home .top_logo {width:188px}
+.hyzg_home .top_logo .brands_logo{background-position:-250px -1395px;left:-250px\9;top:-1395px\9;position:relative\9;}
+.hyzg_home .item_logo .brands_logo{background-position:-250px -1508px;left:-250px\9;top:-1508px\9;position:relative\9;}
+.hyzg_home #home_banner a.unslider-arrow06.redon{  background:  #4395B1;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.hyzg_home .home_cx_button input{  background:  #4395B1;}
+.hyzg_home #home_banner .dots li.active{background: #4395B1}
+.hyzg_home .Popular_hotel_title{color:#4395B1}
+.hyzg_home .home_cx_button a{background: #4395B1}
+.hyzg_home .home_ty_img a{display:none;}
+.hyzg_home .home_ty_img a.active{background:#4395B1;border:1px solid #4395B1}
+.hyzg_home .exhibit_cont a{border:1px solid #4395B1;color:#4395B1}
+.hyzg_home .exhibit_cont a.active{color:#ffffff;background:#4395B1}
+/*中高端_和颐至尚*/
+.hyzs_home .nav li.navon, .hyzs_home .nav li.naon{border-color:#8B5C38;color:#8B5C38;}
+.hyzs_home .top_logo {width:195px}
+
+.hyzs_home .top_logo .brands_logo{background-position:-438px -1195px;left:-438px\9;top:-1195px\9;position:relative\9;}
+.hyzs_home .item_logo{height:118px;width:280px}
+.hyzs_home .item_logo .brands_logo{background-position:-566px -1265px;left:-566px\9;top:-1265px\9;position:relative\9;}
+.hyzs_home #home_banner a.unslider-arrow06.redon{  background:  #8B5C38;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.hyzs_home .home_cx_button input{  background:  #8B5C38;}
+.hyzs_home #home_banner .dots li.active{background: #8B5C38}
+.hyzs_home .home_cx_button a{background: #8B5C38}
+.hyzs_home .Popular_hotel_title{color:#8B5C38}
+.hyzs_home .home_ty_img a.active{background:#8B5C38;border:1px solid #8B5C38}
+.hyzs_home .exhibit_cont a{border:1px solid #8B5C38;color:#8B5C38}
+.hyzs_home .exhibit_cont a.active{color:#ffffff;background:#8B5C38}
+/*中高端_驿居酒店*/
+.yiju_sl_home .nav li.navon, .yiju_sl_home .nav li.naon{border-color:#987123;color:#987123;}
+.yiju_sl_home .home_cx_button a{background:  #987123}
+.yiju_sl_home .top_logo {width:188px}
+.yiju_sl_home .top_logo .brands_logo{background-position:-250px -793px;left:-250px\9;top:-793px\9;position:relative\9;}
+.yiju_sl_home .item_logo{height:84px}
+.yiju_sl_home .item_logo .brands_logo{background-position:-250px -902px;left:-250px\9;top:-902px\9;position:relative\9;}
+.yiju_sl_home #home_banner a.unslider-arrow06.redon{  background:  #987123;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.yiju_sl_home .home_cx_button input{  background:  #987123;}
+.yiju_sl_home #home_banner .dots li.active{background: #987123}
+.yiju_sl_home .Popular_hotel_title{color:#987123}
+.yiju_sl_home .home_ty_img a.active{background:#987123;border:1px solid #987123}
+.yiju_sl_home .exhibit_cont a{border:1px solid #987123;color:#987123}
+.yiju_sl_home .exhibit_cont a.active{color:#ffffff;background:#987123}
+/*中高端_如家精选*/
+.rujiajingxuan_home .nav li.navon, .rujiajingxuan_home .nav li.naon{border-color:#847867;color:#847867;}
+.rujiajingxuan_home .top_login .login_line{color:  #847867}
+.rujiajingxuan_home .top_logo {width:188px}
+.rujiajingxuan_home .top_logo .brands_logo{background-position:-250px -595px;left:-250px\9;top:-595px\9;position:relative\9;}
+.rujiajingxuan_home .item_logo{height:100px}
+.rujiajingxuan_home .item_logo .brands_logo{background-position:-250px -688px;left:-250px\9;top:-688px\9;position:relative\9;}
+.rujiajingxuan_home #home_banner a.unslider-arrow06.redon{  background:  #847867;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.rujiajingxuan_home .home_cx_button input{  background:  #847867;}
+.rujiajingxuan_home #home_banner .dots li.active{background: #847867}
+.rujiajingxuan_home .Popular_hotel_title{color:#847867}
+.rujiajingxuan_home .home_ty_img a.active{background:#847867;border:1px solid #847867}
+.rujiajingxuan_home .exhibit_cont a{border:1px solid #847867;color:#847867}
+.rujiajingxuan_home .exhibit_cont a.active{color:#ffffff;background:#847867}
+.rujiajingxuan_home .home_cx_button a{background:#847867}
+/*中高端_如家商旅*/
+.rujiashangl_home .nav li.navon, .rujiashangl_home .nav li.naon{border-color:#265D5E ;color:#265D5E ;}
+.rujiashangl_home .home_cx_button a{background:#C79F00}
+.rujiashangl_home .top_logo {width:188px}
+.rujiashangl_home .top_logo .brands_logo{background-position:-250px -400px;left:-250px\9;top:-400px\9;position:relative\9;}
+.rujiashangl_home .item_logo .brands_logo{background-position:-250px -509px;left:-250px\9;top:-509px\9;position:relative\9;}
+.rujiashangl_home #home_banner a.unslider-arrow06.redon{  background:  #C79F00;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.rujiashangl_home .home_cx_button input{  background:  #C79F00;}
+.rujiashangl_home #home_banner .dots li.active{background: #C79F00}
+.rujiashangl_home .Popular_hotel_title{color:#847867}
+.rujiashangl_home .home_ty_img a.active{background:#C79F00;border:1px solid #C79F00}
+.rujiashangl_home .exhibit_cont a{border:1px solid #C79F00;color:#C79F00}
+.rujiashangl_home .exhibit_cont a.active{color:#ffffff;background:#C79F00}
+/*中高端_素柏*/
+.subi_home .nav li.navon, .subi_home .nav li.naon{border-color:#88746A;color:#88746A;}
+.subi_home ..home_cx_button a{background:#88746A}
+.subi_home .top_logo {width:188px}
+.subi_home .top_logo .brands_logo{background-position:-250px -200px;left:-250px\9;top:-200px\9;position:relative\9;}
+.subi_home .item_logo .brands_logo{background-position:-250px -319px;left:-250px\9;top:-319px\9;position:relative\9;}
+.subi_home #home_banner a.unslider-arrow06.redon{  background:  #88746A;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.subi_home .home_cx_button input{  background:  #88746A;}
+.subi_home #home_banner .dots li.active{background: #88746A}
+.subi_home .Popular_hotel_title{color:#88746A}
+.subi_home .home_ty_img a.active{background:#88746A;border:1px solid #88746A}
+.subi_home .exhibit_cont a{border:1px solid #88746A;color:#88746A}
+.subi_home .exhibit_cont a.active{color:#ffffff;background:#88746A}
+.subi_home .home_cx_button a{background:#6B5441;}
+/*中高端_云系列睿博*/
+.ruibo_home .nav li.navon, .ruibo_home .nav li.naon{border-color:#BA9765;color:#BA9765;}
+.ruibo_home .home_cx_button a{background: #BA9765;}
+.ruibo_home .top_logo {width:188px}
+.ruibo_home .top_logo .brands_logo{background-position:-250px -0px;left:-250px\9;top:-0px\9;position:relative\9;}
+.ruibo_home .item_logo{height:123px;width:220px}
+.ruibo_home .item_logo .brands_logo{background-position:-250px -66px;left:-250px\9;top:-66px\9;position:relative\9;}
+.ruibo_home #home_banner a.unslider-arrow06.redon{  background:  #00304C;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.ruibo_home .home_cx_button input{  background:#BA9765;}
+.ruibo_home #home_banner .dots li.active{background: #BA9765}
+.ruibo_home .Popular_hotel_title{color:#BA9765}
+.ruibo_home .home_ty_img a.active{background:#BA9765;border:1px solid #BA9765}
+.ruibo_home .exhibit_cont a{border:1px solid #BA9765;color:#BA9765}
+.ruibo_home .exhibit_cont a.active{color:#ffffff;background:#BA9765}
+/*高端头部开始*/
+.gd_homes{}
+.home_mask{position:absolute;width:100%;height:118px;left:0;top:0;background:#E7E7E7;opacity:0.9;-moz-opacity:0.9;z-index:100}
+.gd_home_top{height:118px;position:absolute;width:100%;z-index:6666}
+.gd_head_nav{height:100%;position:relative}
+.page_link{height:20px;line-height:20px;margin-top:48px;font-size: 14px;color: #2F2E2E;margin-right:130px}
+.nav_list{margin-top:48px;height:20px}
+.nav_list li{float:left;position:relative}
+.nav_list .nav_item{padding-bottom:20px;float:left;font-size: 14px;color: #2F2E2E;position:relative;letter-spacing: 0;height:20px;line-height:20px;margin-right:38px;}
+.nav_list .nav_item span{width:24px;height:4px;border-radius: 2px;-webkit-border-radius:2px;background:#F08D00;margin:0 auto;display:none;position:absolute;bottom:0;left:50%;margin-left:-12px;}
+.nav_list .nav_item span.active{display:block}
+.gd_top_logo{height:118px;width:178px;overflow:hidden;margin-right:58px;margin-top:-50px}
+.gd_home_top .top_login{padding-top:50px;}
+.gd_home_top .english{margin-right:9px;}
+.gd_top_logo .brands_logo{background-position:-575px 8px;left:-575px\9;top:8px\9;position:relative\9}
+.english{background:#F08D00}
+/*高端_了解更多*/
+.gd_home_introduce{padding:50px 0;background: #F9F8F6;margin-bottom:50px}
+.gd_home_image1{width:424px;height:537px;margin-right:60px}
+.gd_home_image1 img{width:100%;height:100%}
+.gd_introduce_con{width:667px;}
+.gd_introduce_logo {margin-bottom:32px;height:60px;margin-top:43px;}
+.gd_logos{width:224px;height:60px;overflow:hidden;display:inline-block;float:left}
+.gd_logos .brands_logo{background-position:-575px -115px;}
+.gd_introduce_logo span{margin-left:33px;font-size: 20px;color: #2F2E2E;float:left;margin-top:37px;}
+.gd_introduce_con p{line-height:28px;font-size: 14px;color: #535353;letter-spacing: 0;margin-bottom:35px;}
+.gd_introduce_con .gd_More{font-size: 14px;color: #F08D00;letter-spacing: 0;width:120px;height:32px;border:1px solid #F08D00;color:#F08D00;text-align:center;line-height:34px;display:block}
+
+
+/*高端*/
+.gd_homes .sy_pop_fix{top:324px;}
+.gd_homes .citypop{top:312px}
+/*高端头部*/
+.nav_list li .nav_cont{
+	display:none;
+  position: absolute;
+  z-index: 100;
+  top: 35px;
+  left: 31%;
+  margin-left: -50px;
+  margin-left: -51px\9;
+  width: 100px;
+  background: #fff;
+  border: 1px solid #a9a9a9\9;
+  -webkit-box-shadow: 0 0 3px 0 #A9A9A9;
+  -moz-box-shadow: 0 0 3px 0 #A9A9A9;
+  box-shadow: 0 0 3px 0 #A9A9A9;
+  }
+.nav_cont a{
+	display:block;
+	line-height:34px;
+	text-align: center;
+	color:#535353;
+}
+.nav_list li .nav_cont a:hover {
+  background: #F9F8F6;
+}
+.gd_puyin_home .gd_home_top .top_login .login_txt{color:#ffffff}
+.gd_home_top .top_login a.login_txt{color:#ffffff}
+.gd_home_top .top_login_txt code{color:#ffffff}
+.gd_home_top .top_login .login_line{color:#ffffff}
+.gd_home_top .login_icon{color:#ffffff}
+.gd_homes .app_head_box {
+    padding-top: 7px;
+}
+.gd_homes .Customer_service {
+    margin-top: 5px;
+}
+/*高端_新闻*/
+.home_News {
+    position: relative;
+    margin-bottom: 66px
+}
+.gd_home_image2{width:1200px;height:462px;position:relative;border:1px solid #000000}
+
+.gd_home_News{position:absolute;left:34px;top:160px;height:259px;width:512px;}
+.home_mask2{width:512px;height:213px;position:absolute;background: #ffffff;opacity: 0.69;bottom:0;left:0}
+.gd_home_News .gd_news_con{width:512px;height:259px;position:absolute;z-index:100}
+.gd_home_News .gd_news_con .head{width:487px;height:46px;background:#F08D00 ;line-height:46px;padding-left:25px;color:#ffffff;font-size:24px}
+.gd_home_News .gd_news_con .news_lis{margin-top:26px;margin-left:24px;}
+.gd_home_News .gd_news_con .news_lis span{font-size: 14px;color: #979797;line-height: 14px;}
+.gd_home_News .gd_news_con .news_lis a{display:block;font-size: 16px;color: #535353;line-height: 20px;width:451px;margin-top:10px;cursor:pointer}
+.gd_home_News .gd_news_con .news_lis a:hover {
+    text-decoration: underline;
+}
+.gd_home_News .gd_news_con .plus{margin-left:24px;margin-top:24px;font-size: 16px;color: #90704D;display:block}
+
+/*高端_优惠促销*/
+.gd_homes .Popular_hotel_title{font-size: 30px;
+color: #595757;font-weight:bold}
+.gd_home_content .images_list{height:250px;}
+.gd_home_content .images_list li{height: 250px;}
+.gd_home_content .images_list li img{height:100%;width:100%}
+.gd_home_content .images_list li p{
+  height: 120px;
+  filter: alpha(opacity=89);
+  -moz-opacity: 0.89;
+  opacity: 0.89;
+  background-image: -webkit-linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%);
+  background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%);
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  background: #201f1e\9;
+  height: 43px\9;
+  background: #201f1e\9\0;
+  height: 43px\9\0;}
+.gd_home_content .images_list li span{
+	position: absolute;
+  left: 25px;
+  bottom: 9px;
+  z-index: 9999;
+  font-size: 18px;
+  color: #fff;
+  line-height: 24px;
+  font-weight: normal;}
+/*高端_酒店推荐*/
+.gd_home_Recommend{margin-top:60px;margin-bottom:60px}
+.gd_home_Recommend .Popular_hotel_title{font-size: 30px;color: #2F2E2E;font-weight:bold;margin-bottom:56px}
+.gd_home_Recommend li{width:285px;margin-left:20px;float:left}
+.gd_home_Recommend li img{width:285px;height:200px}
+.gd_home_Recommend li h3{font-size: 18px;color: #2F2E2E;height:24px;line-height:24px;margin-top:15px;margin-bottom:5px;font-weight:bold;text-align: center;}
+.gd_home_Recommend li p{font-size: 14px;color: #535353;line-height: 25px;}
+.gd_home_Recommend li .money{display:block;text-align: center;margin-top:11px;color: #535353;font-size:14px;}
+.gd_home_Recommend li .money b{color: #C0191F;}
+.gd_home_Recommend li a{display:block;margin:0 auto;margin-top:15px;color:#169144;width:128px;height:28px;border:1px solid #169144;text-align: center;line-height:30px}
+.gd_home_Recommend li a.active{background:#169144;color:#ffffff}
+/*高端_新开业酒店*/
+.new_home{padding:35px 0;background: #F9F8F6;margin-top:60px}
+.new_home_l{width:352px;margin-right:53px;float:left}
+.new_home_l h3{font-size: 30px;color: #595757;letter-spacing: -0.73px;margin-bottom:13px;}
+.new_home_l p{font-size: 18px;color: #595757;letter-spacing: -0.44px;line-height: 34px;}
+.new_home_l a{margin-top:40px;font-size:14px;display:block;width:120px;height:32px;border:1px solid #F08D00;color:#F08D00;text-align:center;line-height:34px}
+.new_home_r{width:795px;float:left;position:relative}
+.new_home_r li{height:250px;float:left;position:relative;overflow:hidden;cursor:pointer}
+.new_home_r .image1{margin-bottom:15px;}
+.new_home_r .image2{margin-right:14px;}
+.new_home_r .image3{}
+.new_home_r li img{transition: all 1.2s ease 0s;width:100%;height:100%}
+.new_home_r li img.preferon{transform: scale3d(1.1, 1.1, 1.1);}
+.new_home_r li p{
+  height: 120px;
+  filter: alpha(opacity=89);
+  -moz-opacity: 0.89;
+  opacity: 0.89;
+  background-image: -webkit-linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%);
+  background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%);
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  background: #201f1e\9;
+  height: 43px\9;
+  background: #201f1e\9\0;
+  height: 43px\9\0;}
+.new_home_r li span{  
+  position: absolute;
+  left: 25px;
+  bottom: 9px;
+  z-index: 9999;
+  font-size: 18px;
+  color: #fff;
+  line-height: 24px;
+  font-weight: normal;}
+  /*广告图片*/
+.AD_image{width:1200px;height:410px;margin-top:60px}
+.AD_image img{width:100%;height:100%}
+/*视频*/
+.controls{position:relative}
+.control{position:absolute;left:50%;top:50%;margin-left:-25px;margin-top:-25px;z-index:100}
+.control .btnPlay{width:50px;height:50px;background:#979797;display:block;border-radius:50%;line-height:50px;text-align: center;}
+/*高端底部*/
+.gd_homes .footerL dl {color: #ffffff;}
+.gd_homes .footerL dl dd a{color: #ffffff;}
+.gd_homes .footerR li.footerR_aboutus{color:#ffffff}
+.gd_homes .footerR li.footerR_aboutus a{color:#ffffff}
+ /*高端结束*/
+/*高端_建国饭店*/
+.gd_jianguo_home .gd_top_logo .brands_logo{background-position:-575px 8px;left:-575px\9;top:8px\9;position:relative\9}
+.gd_jianguo_home .gd_More.active{background:#F08D00;color:#ffffff}
+.gd_jianguo_home #home_banner a.unslider-arrow06.redon{background:#F08D00}
+.gd_jianguo_home .home_cx_button a{background:#F08D00}
+.gd_jianguo_home #home_banner .dots li.active{background:#F08D00}
+.gd_jianguo_home .gd_logos .brands_logo{background-position:-575px -115px;left:-575px\9;top:-115px\9;position:relative\9}
+.gd_jianguo_home .gd_home_top .top_login{color:#90704D}
+.gd_jianguo_home .gd_home_top .login_icon{color:#c0191f;}
+.gd_jianguo_home .gd_home_top .top_login_box{color:#90704D}
+.gd_jianguo_home .gd_home_top .top_login_after a.login_txt{color:#90704D}
+.gd_jianguo_home .gd_home_top .top_login_after a.login_quit{color:#90704D}
+.gd_jianguo_home .gd_home_top .top_login_after code{color:#90704D}
+.gd_jianguo_home .gd_home_top .top_login_box li a{color:#90704D}
+.gd_jianguo_home .footer{background: #818181;}
+.gd_jianguo_home .gd_home_top .top_login a.login_txt{color:#90704D}
+.gd_jianguo_home .gd_home_top .top_login_txt code{color:#90704D}
+.gd_jianguo_home .gd_home_top .top_login .login_line{color:#90704D}
+.jianguo .gd_home_top .top_login_box code{ background: #90704D;}
+/*高端_首旅南苑*/
+
+.gd_nanyuan_home .gd_top_logo .brands_logo{background-position: -575px -178px;left: -575px\9;top: -178px\9;position: relative\9;}
+.gd_nanyuan_home .gd_home_top .english{background:#169144}
+.gd_nanyuan_home .gd_logos{width:200px}
+.gd_nanyuan_home .nav_list li span{background:#169144}
+.gd_nanyuan_home .home_cx_button a{background:#169144}
+.gd_nanyuan_home .gd_home_top .login_icon{color:#c0191f}
+.gd_nanyuan_home .gd_home_top .top_login_box{color:#535353}
+.gd_nanyuan_home .gd_home_top .top_login_after a.login_txt{color:#535353}
+.gd_nanyuan_home .gd_home_top .top_login_after a.login_quit{color:#535353}
+.gd_nanyuan_home .gd_home_top .top_login_box li a{color:#535353}
+.gd_nanyuan_home .gd_logos .brands_logo{background-position: -575px -298px;left: -575px\9;top: -298px\9;position: relative\9;}
+.gd_nanyuan_home .gd_More{color:#169144;border:1px solid #169144}
+.gd_nanyuan_home .gd_More.active{background:#169144;color:#ffffff}
+.gd_nanyuan_home .gd_home_News .gd_news_con .head{background:#169144}
+.gd_nanyuan_home #home_banner .dots li.active{background:#169144}
+.gd_nanyuan_home #home_banner a.unslider-arrow06.redon{  background: #169144;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.gd_nanyuan_home .home_cx_button input{background:#169144}
+.gd_nanyuan_home .home_mask{background:#ffffff;}
+.gd_nanyuan_home .footer{background: #0A4F24;}
+.gd_nanyuan_home .gd_home_top .top_login_box code{color:#535353}
+.gd_nanyuan_home .gd_home_top .top_login_txt code{color:#535353}
+.gd_nanyuan_home .gd_home_top .top_login a.login_txt{color:#535353}
+.gd_nanyuan_home .gd_home_top .top_login .login_line{color:#535353}
+
+/*高端_璞隐酒店*/
+.gd_puyin_home .home_mask{opacity: 0.89;background: #8D8353;}
+.gd_puyin_home .page_link{color:#ffffff}
+.gd_puyin_home .nav_list .nav_item{color:#ffffff}
+.gd_puyin_home .nav_list .nav_item span{background:#ffffff}
+
+.gd_puyin_home .gd_top_logo .brands_logo{background-position: -575px -365px;left: -575px\9;top: -365px\9;position: relative\9;}
+.gd_puyin_home .gd_home_top .english{background:#ffffff;color: #615350;}
+.gd_puyin_home .gd_home_top .top_login{color:#ffffff;}
+.gd_puyin_home .home_cx_button a{background:#847C4D}
+.gd_puyin_home .login_line:before{color:#ffffff;background:none}
+.gd_puyin_home .gd_logos .brands_logo{background-position: -575px -483px;left: -575px\9;top: -483px\9;position: relative\9;}
+.gd_puyin_home .gd_More{color:#847C4D;border:1px solid #847C4D}
+.gd_puyin_home .gd_More.active{background:#847C4D;color:#ffffff}
+.gd_puyin_home .Popular_hotel_title{margin-top:60px}
+.gd_puyin_home #home_banner .dots li.active{background:#847C4D}
+.gd_puyin_home #home_banner a.unslider-arrow06.redon{  background: #847C4D;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.gd_puyin_home .home_cx_button input{background:#847C4D}
+.gd_puyin_home .footer{background: #544D2B;}
+/*高端_南山休闲会所*/
+.gd_nanshan_home .home_mask{opacity: 0.89;background: #E50113;}
+.gd_nanshan_home .page_link{color:#ffffff}
+.gd_nanshan_home .nav_list .nav_item{color:#ffffff}
+.gd_nanshan_home .nav_list .nav_item span{background:#ffffff}
+.gd_nanshan_home .gd_top_logo .brands_logo{background-position: -575px -547px;left: -575px\9;top: -547px\9;position: relative\9;}
+.gd_nanshan_home .gd_home_top .english{background:#ffffff;color: #E50113;}
+.gd_nanshan_home .gd_home_top .top_login{color:#ffffff}
+.gd_nanshan_home .login_line:before{color:#ffffff;background:none}
+.gd_nanshan_home .gd_logos .brands_logo{background-position: -575px -668px;left: -575px\9;top: -668px\9;position: relative\9;}
+.gd_nanshan_home .gd_More{color:#E50113;border:1px solid #E50113}
+.gd_nanshan_home .gd_More.active{background:#E50113;color:#ffffff}
+.gd_nanshan_home .Popular_hotel_title{margin-top:60px}
+.gd_nanshan_home .gd_home_News .gd_news_con .head{background:#E50113}
+.gd_nanshan_home .Popular_hotel{padding-top:0}
+.gd_nanshan_home .Popular_hotel .gd_More{display: block;font-size:14px;margin:0 auto;margin-top:30px;margin-bottom:60px;width:120px;height:32px;border:1px solid #E50113;line-height:34px;text-align: center;}
+.gd_nanshan_home .home_Coupon {padding-top:60px;padding-bottom:105px;background: #F9F8F6;}
+.gd_nanshan_home .home_Coupon .images_list li{width:590px;margin-left:20px}
+.gd_nanshan_home #home_banner .dots li.active{background:#E50113}
+.gd_nanshan_home #home_banner a.unslider-arrow06.redon{  background: #E50113;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.gd_nanshan_home .home_cx_button input{background:#E50113}
+.gd_nanshan_home .footer{background: #7A090D;}
+/*高端_京伦饭店*/
+.gd_jinglun_home .home_mask{opacity: 0.89;background: #C0AC49;}
+.gd_jinglun_home .page_link{color:#ffffff}
+.gd_jinglun_home .nav_list .nav_item{color:#ffffff}
+.gd_jinglun_home .gd_top_logo .brands_logo{background-position: -575px -727px;left: -575px\9;top: -727px\9;position: relative\9;}
+.gd_jinglun_home .gd_home_top .english{background:#ffffff;color: #C0AC49;}
+.gd_jinglun_home .gd_home_top .top_login{color:#ffffff;}
+.gd_jinglun_home .gd_home_top .top_login .login_txt{color:#ffffff;}
+.gd_jinglun_home  .login_line{color:#ffffff}
+.gd_jinglun_home .nav_list .nav_item span{background:#ffffff}
+.gd_jinglun_home .login_line:before{color:#ffffff;background:none}
+.gd_jinglun_home .gd_introduce_logo{margin-top:30px;margin-bottom:25px;}
+.gd_jinglun_home .gd_logos{width:169px;}
+.gd_jinglun_home .home_cx_button a{background:#C0AC49}
+.gd_jinglun_home .gd_logos .brands_logo{background-position: -575px -852px;left: -575px\9;top: -852px\9;position: relative\9;}
+.gd_jinglun_home .gd_More{color:#C0AC49;border:1px solid #C0AC49}
+.gd_jinglun_home .gd_More.active{background:#C0AC49;color:#ffffff}
+.gd_jinglun_home .gd_home_News .gd_news_con .head{background:#C0AC49}
+.gd_jinglun_home #home_banner .dots li.active{background:#C0AC49}
+.gd_jinglun_home #home_banner a.unslider-arrow06.redon{  background: #C0AC49;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.gd_jinglun_home .home_cx_button input{background:#C0AC49}
+.gd_jinglun_home .footer{background:#74651C}
+/*高端_扉缦*/
+.gd_feiman_home .home_mask{opacity: 0.89;background: #966C72;}
+.gd_feiman_home .page_link{color:#ffffff}
+.gd_feiman_home .nav_list .nav_item{color:#ffffff}
+.gd_feiman_home .gd_top_logo .brands_logo{background-position: -575px -910px;left: -575px\9;top: -910px\9;position: relative\9;}
+.gd_feiman_home .gd_home_top .english{background:#ffffff;color: #966C72;}
+.gd_feiman_home .gd_home_top .top_login{color:#ffffff}
+.gd_feiman_home .login_line:before{color:#ffffff;background:none}
+.gd_feiman_home  .gd_introduce_logo{height:162px;width:124px;margin-bottom:0;margin-left:50px;margin-top:25px;}
+.gd_feiman_home .gd_introduce_con{position:relative}
+.gd_feiman_home .nav_list .nav_item span{background:#ffffff}
+.gd_feiman_home .home_cx_button a{background:#966C72}
+.feiman_jiesao{width:178px;position:absolute;left:257px;top:40px}
+.feiman_image1{position:absolute;left:-155px;bottom:-285px}
+.feiman_image2{position:absolute;right:0px;top:15px}
+.gd_feiman_home .feiman_jiesao p{text-align: center;}
+.gd_feiman_home .feiman_jiesao a{margin:0 auto}
+.gd_feiman_home .gd_introduce_logo span{display:block;float:none;margin-top:20px;margin-left:0;text-align: center;}
+.gd_feiman_home .gd_logos{width:126px;height:120px;float:none}
+.gd_feiman_home .gd_logos .brands_logo{background-position: -575px -1017px;left: -575px\9;top: -1017px\9;position: relative\9;}
+.gd_feiman_home .gd_More{color:#966C72;border:1px solid #966C72}
+.gd_feiman_home .gd_More.active{background:#966C72;color:#ffffff}
+.gd_feiman_home .gd_home_News .gd_news_con .head{background:#966C72}
+.gd_feiman_home #home_banner .dots li.active{background:#966C72}
+.gd_feiman_home #home_banner a.unslider-arrow06.redon{  background: #966C72;opacity: 1;filter: alpha(opacity=100);-moz-opacity: 1;}
+.gd_feiman_home .home_cx_button input{background:#966C72}
+.gd_feiman_home .footer{background:#593036}
+.footerR li div p, .footerR .footerR_aboutus p, .footerR .footerR_aboutus p span {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { 
+	/*.ruibo_home .top_logo .brands_logo, .ruibo_home .item_logo .brands_logo{
+		position:static !important
+	}
+	.rujia_home .top_logo .brands_logo, .rujia_home .Hotel_introduce .brands_logo, .motai_home .top_logo .brands_logo, .motai_home .Hotel_introduce .brands_logo{
+		position:static !important
+	}
+	.yunshangsiji_home .top_logo .brands_logo, .yunshangsiji_home .Hotel_introduce .brands_logo{
+		position:static !important
+	}
+	.paibo_home .top_logo .brands_logo, .paibo_home .Hotel_introduce .brands_logo, .xinyandu_home .top_logo .brands_logo, .xinyandu_home .Hotel_introduce .brands_logo{
+		position:static !important
+	}
+	.yakeyijia_home .top_logo .brands_logo, .yakeyijia_home .Hotel_introduce .brands_logo{
+		position:static !important
+	}
+	.yiju_home .top_logo .brands_logo, .yiju_home .Hotel_introduce .brands_logo{
+		position:static !important
+	}
+	.hyzz_home .top_logo .brands_logo{
+		position:static !important
+	}
+	.hyzg_home .top_logo .brands_logo, .hyzg_home .item_logo .brands_logo{
+		position:static !important
+	}
+	.hyzs_home .top_logo .brands_logo, .hyzs_home .item_logo .brands_logo{
+		position:static !important
+	}
+	.yiju_home .top_logo .brands_logo, .yiju_home .item_logo .brands_logo{
+		position:static !important
+	}
+	.rujiajingxuan_home .top_logo .brands_logo, .rujiajingxuan_home .item_logo .brands_logo{
+		position:static !important
+	}
+	.rujiashangl_home .top_logo .brands_logo, .rujiashangl_home .item_logo .brands_logo{
+		position:static !important
+	}
+	.subi_home .top_logo .brands_logo, .subi_home .item_logo .brands_logo{
+		position:static !important
+	}
+	.ruibo_home .top_logo .brands_logo, .ruibo_home .item_logo .brands_logo{
+		position:static !important
+	}
+    .gd_feiman_home .gd_top_logo .brands_logo{
+        position:static !important
+    }
+
+    /*集团logo集合*/
+    /*.jianguo_logo .Artboard_logo{
+		position:static !important
+	}
+	.lanyuan_logo .Artboard_logo{
+		position:static !important
+	}
+	.jinglun_logo .Artboard_logo{
+		position:static !important
+	}
+	.jinglun_logo .Artboard_logo{
+		position:static !important
+	}
+    .gd_jianguo_home .gd_top_logo .brands_logo{
+        position:static !important
+    }
+	.xiying_logo .Artboard_logo{
+		position:static !important
+	}
+	.feiman_logo .Artboard_logo{
+		position:static !important
+	}
+	.lansanxiuxian_logo .Artboard_logo{
+		position:static !important
+	}
+	.sl_hanshe_logo .Artboard_logo{
+		position:static !important
+	}
+	.jialebi_logo .Artboard_logo{
+		position:static !important
+	}
+	.hy_zhizun_logo .Artboard_logo{
+		position:static !important
+	}
+	.hy_zhishang_logo .Artboard_logo{
+		position:static !important
+	}
+	.hy_zhige_logo .Artboard_logo{
+		position:static !important
+	}
+	.rj_jingxuan_logo .Artboard_logo{
+		position:static !important
+	}
+	.rj_sl_logo .Artboard_logo{
+		position:static !important
+	}
+	.yiju_logo .Artboard_logo{
+		position:static !important
+	}
+	.rujia_logo .Artboard_logo{
+		position:static !important
+	}
+	.motai_logo .Artboard_logo{
+		position:static !important
+	}
+	.yunshangsiji_jiudian_logo .Artboard_logo{
+		position:static !important
+	}
+	.yunshangsiji_ms_logo .Artboard_logo{
+		position:static !important
+	}
+	.yake_logo .Artboard_logo{
+		position:static !important
+	}
+	.xingyandu_logo .Artboard_logo{
+		position:static !important
+	}
+	.shubo_yun_logo .Artboard_logo{
+		position:static !important
+	}
+	.ruibo_logo .Artboard_logo{
+		position:static !important
+	}
+	.paibo_logo .Artboard_logo{
+		position:static !important
+	}
+	.rujiaxiaozheng_logo .Artboard_logo{
+		position:static !important
+	}
+	.rujiamohe_logo .Artboard_logo{
+		position:static !important
+	}
+	.douhaogongyu_logo .Artboard_logo{
+		position:static !important
+	}
+	.qingchaogongyu_logo .Artboard_logo{
+		position:static !important
+	}
+	.douhaozhijia_logo .Artboard_logo{
+		position:static !important
+	}
+    .gd_puyin_home .gd_logos .brands_logo{
+        position:static !important
+    }
+    .gd_puyin_home .gd_top_logo .brands_logo{
+        position:static !important
+    }
+    .gd_jinglun_home .gd_logos .brands_logo{
+         position:static !important
+    }
+    .gd_jinglun_home .gd_top_logo .brands_logo{
+         position:static !important
+    }
+    .gd_feiman_home .gd_logos .brands_logo{
+        position:static !important
+    }*/
+    .brands_logo{
+        position:static !important
+    }
+    .Artboard_logo{
+		position:static !important
+	}
+}
+
+
+

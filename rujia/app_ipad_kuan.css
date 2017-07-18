@@ -1,0 +1,7 @@
+@charset "utf-8";
+@media screen and (min-width:1000px) and (max-width:1199px) {
+.main_w1200{ width: 1000px;}
+.appL{ margin-left:-452px;}
+.app_nav dl{ padding-right: 40px;}
+}
+

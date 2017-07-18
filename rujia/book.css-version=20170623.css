@@ -1,0 +1,13 @@
+@charset "utf-8";
+.book_main { padding-bottom:100px;}
+.book_main h1 {font-size: 14px;color: #2F2E2E; font-weight:normal; line-height:19px; padding:29px 0 8px 0;}
+.book_list {}
+.book_list dl{ overflow:hidden;zoom:1; font-size:14px;}
+.book_list dl dt{ float:left; width:70px; height:24px; margin:9px 20px 2px 0; font-size:14px; color:#fff; text-align:center; line-height:24px; background:url(book_city_icon.jpg)/*tpa=http://images.homeinns.com/image/web/book_city_icon.jpg*/ left center no-repeat;}
+.book_list dl dd{ float:left; width:1110px; border-bottom:1px solid #d4d4d4; padding:13px 0 2px 0;}
+.book_list dl dd a{ float:left; padding-right:16px; color: #535353; padding-bottom:10px;}
+.book_list dl dd a:hover{ color:#c0191f}
+@media screen and (min-width:1000px) and (max-width:1199px) {
+ .main_w1200{width:1000px;margin:0 auto;}
+ .book_list dl dd { width:910px;}
+}

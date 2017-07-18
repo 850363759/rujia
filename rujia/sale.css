@@ -1,0 +1,191 @@
+.clearfix:after {display: block;content: ".";height: 0;visibility: hidden;clear: both;font-size: 0;  line-height: 0  }
+.clearfix {*zoom:1}
+.big_banner{margin-top:20px;padding:15px 15px 25px;}
+.big_banner .pic{width:100%;}
+.pic_show{display:block;}
+.pic_show.hover{-webkit-box-shadow:0 0 10px 0 rgba(0,0,0,0.23);-moz-box-shadow:0 0 10px 0 rgba(0,0,0,0.23);box-shadow:0 0 10px 0 rgba(0,0,0,0.23);}
+.pic_show h3{margin-top:20px;line-height:26px;text-align: center;font-size: 20px;color: #535353;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.pic_show h3.hover,.pic_show p.hover{opacity:0.8;}
+.pic_show p{margin-top:12px;line-height:19px;font-size: 14px;color: #979797;text-align: center;}
+.pic_show .btn{margin-top:22px;text-align: center;}
+.pic_show .btn span{display: inline-block;width: 110px;height: 30px;line-height: 30px;border: 1px solid #90704D;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;font-size: 14px;color: #90704D;}
+.pic_show .btn span.hover{background: #90704D;color:#fff;border: 1px solid #90704D;}
+.pic_list{margin:10px 0 50px;}
+.pic_list .item{float:left;margin:25px 15px 0;padding:15px 20px;width:530px;}
+.pic_list .item h3,.pic_list .item p{text-align: left;}
+.list_location { font-size: 12px; color: #979797; padding-top: 15px; }
+.list_location a { color: #979797; padding: 0 10px; }
+.list_location a.breadon { color: #535353; }
+.list_time {display:none; padding-top: 19px; font-size: 14px; }
+.list_input { float: left; }
+.list_input input { background: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; width: 227px; height: 20px; padding: 11px 12px; outline: none; color: #535353; font-size: 14px; line-height: 20px; overflow: hidden; }
+.list_input input.city_line_on { border-color: #BB9861; background: #FCF5EA; }
+.list_choose { float: left; width: 379px; height: 42px; background: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; margin: 0 10px; padding-left: 29px; color: #979797; }
+.list_choose code {float: left;width: 16px;height: 1px;margin: 21px 20px 0 20px;background: url(time_line.png)/*tpa=http://www.bthhotels.com/Content/image/web/time_line.png*/ left center no-repeat;}
+.list_choose input { float: left; font-size: 14px; }
+.list_choose input.date_input { width: 87px; border: none; background: none; outline: none; height: 20px; line-height: 20px; padding: 11px 0; color: #535353; }
+.list_choose input.date_input_txt { width: 32px; border: none; background: none; outline: none; height: 20px; line-height: 20px; padding: 11px 0; color: #979797; }
+.list_choose span { float: left; height: 20px; line-height: 20px; padding: 11px 0; }
+.list_search { float: left; }
+.list_search input { background: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; width: 304px; height: 20px; line-height: 20px; padding: 11px 23px; outline: none; font-size: 14px; color: #979797; }
+.list_search input.search_line_on { border-color: #BB9861; background: #FCF5EA; }
+.list_cx_button { float: left; margin-left: 10px; }
+.list_cx_button input { background: #c0191f; border-radius: 5px; -webkit-border-radius: 5px; width: 154px; height: 42px; border: none; outline: medium none; font-size: 20px; color: #fff; text-align: center; line-height: 40px; cursor: pointer; }
+.list_cx_button input:hover{ background: #cd474c; }
+.list_filter_button{display: none;}
+.citypop { position: absolute; left: 50%; margin-left: -600px; top: 176px; width: 1200px; z-index: 10; display: none; font-size: 12px; background-color: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; }
+.citypop div.zb_jt_up { display: inline-block; overflow: hidden; width: 20px; height: 10px; position: absolute; left: 112px; top: -8px; }
+.citypop code { border-bottom: 9px solid #fff; border-left: 9px solid transparent; border-right: 9px solid transparent; height: 0; left: 50%; margin-left: -488px; position: absolute; top: -10px; width: 0; }
+.citypop_c { overflow: hidden; zoom: 1; padding: 16px 0 22px 34px; }
+.citypop_c p { font-size: 12px; color: #979797; padding-bottom: 18px; }
+.citypop_c p b { font-weight: normal; color: #535353; }
+.citypop_c h1 { float: left; width: auto; font-size: 14px; color: #535353; line-height: 24px; padding: 0 11px; font-weight: normal; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin-bottom: 16px; }
+.citypop_c h1 b { font-weight: bold; }
+.citypop_c h1.redon { background: #C0191F; color: #fff; }
+.citypop_c ul { float: left; }
+.citypop_c ul li { cursor: pointer; float: left; width: 198px; font-size: 14px; color: #535353; padding: 0 11px; line-height: 24px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin: 0px 71px 16px 0px; }
+.citypop_c ul li.redon { background: #C0191F; border-color: #C0191F; color: #fff; }
+.citypop_c ul li span b { font-weight: bold; }
+.citypop_c ul li span.city_hotel_num { color: #979797; }
+.citypop_c ul li b.city_num { font-weight: normal; }
+.citypop_c ul li span.city_hotel_num.redon { background: #C0191F; color: #fff; }
+.citypop_c dl { overflow: hidden; zoom: 1; }
+.citypop dl dd { float: left; width: 242px; margin: 5px 64px; padding: 0px 8px; height: 27px; font-size: 14px; line-height: 27px; color: #b0b0b0; cursor: pointer; }
+.citypop dl dd.cityon { background-color: #8d8b00; color: #fff; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; }
+.citypop dl dd span { float: right; }
+.city_page { float: left; width: 100%; text-align: center; font-size: 14px; padding-top: 25px; }
+.city_page a.page_left i { background-position: -89px -24px; height: 16px; margin-top: -1px; vertical-align: middle; width: 10px; margin-right: 3px; cursor: pointer; }
+.city_page a.page_right i { background-position: -117px -24px; height: 16px; margin-top: -1px; vertical-align: middle; width: 10px; margin-left: 3px; cursor: pointer; }
+.city_page a.page_num { display: inline-block; color: #90704D; line-height: 24px; padding: 0px 7px; margin: 0 10px; font-size: 14px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; cursor: pointer; }
+.city_page a.page_num:hover { background: #90704D; color: #fff; }
+.city_page a.city_pageon { display: inline-block; color: #90704D; line-height: 24px; padding: 0px 7px; margin: 0 10px; font-size: 14px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; background: #90704D; color: #fff; }
+.citypoptwo { position: absolute; left: 50%; margin-left: -600px; top: 176px; width: 1200px; z-index: 10; display: none; font-size: 12px; background-color: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; }
+.citypoptwo div.zb_jt_up { display: inline-block; overflow: hidden; width: 20px; height: 10px; position: absolute; left: 112px; top: -8px; }
+.citypoptwo code { border-bottom: 9px solid #fff; border-left: 9px solid transparent; border-right: 9px solid transparent; height: 0; left: 50%; margin-left: -488px; position: absolute; top: -10px; width: 0; }
+.citypoptwo_c { overflow: hidden; zoom: 1; padding: 16px 0 22px 20px; }
+.citypoptwo_c p { font-size: 12px; color: #979797; padding: 0px 0px 18px 13px; }
+.citypoptwo_c p b { font-weight: normal; color: #535353; }
+.citypoptwo_c h1 { float: left; width: auto; font-size: 14px; color: #535353; line-height: 24px; padding: 0 11px; font-weight: normal; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin-bottom: 16px; }
+.citypoptwo_c h1 b { font-weight: bold; }
+.citypoptwo_c h1.redon { background: #C0191F; color: #fff; }
+.citypoptwo_c ul { float: left; width: 1124px; }
+.citypoptwo_c ul li { cursor: pointer; float: left; width: 227px; font-size: 14px; color: #535353; padding: 0 11px; line-height: 24px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin: 0px 30px 16px 0px; }
+.citypoptwo_c ul li.redon { background: #C0191F; border-color: #C0191F; color: #fff; }
+.citypoptwo_c ul li span b { font-weight: bold; }
+.citypoptwo_c ul li span.city_hotel_num { color: #979797; }
+.citypoptwo_c ul li b.city_num { font-weight: normal; }
+.citypoptwo_c ul li span.city_hotel_num.redon { background: #C0191F; color: #fff; }
+.citypop_list_xzq156 ul li { float: left; width: 156px; padding: 0 11px; line-height: 24px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin: 0px 40px 16px 0px; }
+.citypop_list h2 { float: left; width: 42px; text-align: right; font-size: 14px; line-height: 24px; color: #535353; font-weight: bold; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; background: #fff; padding-right: 14px; }
+.citypop_list ul li span.citypop_view_num { color: #979797; }
+.citypop_list ul li span.citypop_view_num.redon { color: #fff; }
+.citypop_list ul li span.citypop_view_num b { font-weight: normal; }
+.citypoptwo_c ul.citypop_city_name li { float: left; width: auto; }
+.citypopthree { position: absolute; left: 50%; margin-left: -600px; top: 176px; width: 1200px; z-index: 10; display: none; font-size: 12px; background-color: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; }
+.citypopthree div.zb_jt_up { display: inline-block; overflow: hidden; width: 20px; height: 10px; position: absolute; left: 112px; top: -8px; }
+.citypopthree code { border-bottom: 9px solid #fff; border-left: 9px solid transparent; border-right: 9px solid transparent; height: 0; left: 50%; margin-left: -488px; position: absolute; top: -10px; width: 0; }
+.citypopthree_c { overflow: hidden; zoom: 1; padding: 16px 0 22px 20px; }
+.citypopthree_c p { font-size: 12px; color: #979797; padding: 0px 0px 18px 13px; }
+.citypopthree_c p b { font-weight: normal; color: #535353; }
+.citypopthree_c ul { float: left; width: 1124px; }
+.citypopthree_c ul li { cursor: pointer; float: left; width: auto; font-size: 14px; color: #535353; padding: 0 11px; line-height: 24px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin: 0px 30px 16px 0px; }
+.citypopthree_c ul li.redon { background: #C0191F; border-color: #C0191F; color: #fff; }
+.citypopthree_c ul li span b { font-weight: bold; }
+.citypopthree_c ul li span.city_hotel_num { color: #979797; }
+.citypopthree_c ul li b.city_num { font-weight: normal; }
+.citypopthree_c ul li span.city_hotel_num.redon { background: #C0191F; color: #fff; }
+.citypop_jd186 ul li { float: left; width: 186px; padding: 0 11px; line-height: 24px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin: 0px 40px 16px 0px; }
+.citypop_list_xzq212 ul li { float: left; width: 212px; padding: 0 11px; line-height: 24px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin: 0px 40px 16px 0px; }
+.citypop_list_xzq200 ul li { float: left; width: 200px; padding: 0 11px; line-height: 24px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; background: #fff; margin: 0px 40px 16px 0px; }
+.zb_pop { position: absolute; left: 50%; margin-left: -600px; top: 176px; width: 1198px; display: none; z-index: 100; background-color: #fff; border: 1px solid #D4D4D4; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; }
+.zb_pop div.zb_jt_up { display: inline-block; overflow: hidden; width: 20px; height: 10px; position: absolute; left: 112px; top: -8px; }
+i.jt_top { background-position: -294px 0; width: 400px; height: 322px; position: relative\9; left: -294px\9; top: 0px\9; }
+.zb_pop_pe { padding: 0px 37px 5px 34px; }
+.zb_pop_sj { width: 17px; height: 11px; background: url(home)/*tpa=http://www.bthhotels.com/Content/image/public_blue/icon_topsj.png*/ left top no-repeat; _background-image: url(home)/*tpa=http://www.bthhotels.com/Content/image/public_blue/icon_topsj.gif*/; position: absolute; top: -10px; left: 15px; }
+.zb_pop_top { overflow: hidden; font-size: 12px; color: #535353; line-height: 12px; padding: 17px 0 11px 0; }
+.zb_pop_close { position: absolute; left: 50%; top: 21px; width: 32px; height: 32px; margin-left: 512px; background: url(home)/*tpa=http://www.bthhotels.com/Content/newimages/pb/xl_close.png*/ left center no-repeat; cursor: pointer; overflow: hidden; }
+.zb_pop_footer { height: 17px; overflow: hidden; }
+.zb_pop_c { padding: 0px 0px 10px 0px; overflow: hidden; }
+.zb_pop_histroy { overflow: hidden; zoom: 1; }
+.zb_pop_histroy_t { float: left; }
+.zb_pop_histroy_t span { float: left; font: bold 14px/14px "微软雅黑"; color: #535353; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; padding: 5px 46px 5px 0; }
+.zb_pop_se { float: left; display: none; }
+.zb_pop_se span { float: left; width: 24px; font-size: 12px; padding: 6px 0px 0px 7px; line-height: 18px; color: #ca1019; }
+.zb_pop_se li { overflow: hidden; float: left; font-size: 16px; color: #b0b0b0; margin: 0 13px 12px 0; }
+.zb_pop_se li a { float: left; width: auto; font-size: 14px; line-height: 14px; color: #535353; cursor: pointer; padding: 5px 10px; vertical-align: middle; }
+.zb_pop_se li a.zb_pop_seon { color: #fff; background-color: #C0191F; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; }
+.zb_pop_tab_box { padding-top: 12px; }
+.zb_pop_tab { overflow: hidden; zoom: 1; height: 28px; border-bottom: 1px solid #979797; padding: 0px 0px 3px 4px; margin-bottom: 7px; }
+.zb_pop_tab li { float: left; width: auto; height: 28px; margin-right: 70px; _display: inline; cursor: pointer; color: #002E00; line-height: 28px; font-size: 14px; }
+.zb_pop_tab li.zb_pop_tabon { color: #C0191F; font-weight: bold; }
+.keyword_pop { background-color: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; display: none; left: 50%; margin-left: -600px; position: absolute; top: 176px; width: 1140px; z-index: 100; padding: 18px 28px 0px 28px; }
+.keyword_pop div.zb_jt_up { left: 50%; margin-left: 122px; position: absolute; top: -8px; height: 10px; width: 20px; overflow: hidden; }
+.keyword_pop div.zb_jt_up i.jt_top { background-position: -294px 0; position: relative\9; left: -294px\9; top: 0px\9; width: 400px; height: 322px; }
+.keyword_pop_box h1 { font-size: 12px; color: #535353; padding: 0px 0px 11px 3px; }
+.keyword_pop_fix { font-size: 14px; color: #535353; line-height: 22px; background: #fff; border-bottom: 1px solid #d4d4d4; padding-bottom: 7px; margin-bottom: 13px; }
+.keyword_pop_box h2 { float: left; width: 70px; padding-right: 19px; font-weight: bold; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; }
+.keyword_pop_fix ul { float: left; width: 1051px; }
+.keyword_sq_list li { float: left; width: 140px; height: 24px; margin: 0px 48px 8px 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 0 11px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; }
+.keyword_xzq_list li { float: left; width: 120px; margin: 0px 5px 8px 0; overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.keyword_xzq_list li a { float: left; width: auto; height: 24px; padding: 0 11px; padding-right: 0; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; }
+.keyword_jc_list li a { float: left; width: auto; height: 24px; margin: 0px 88px 8px 0; padding: 0 11px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; }
+.keyword_metro_list li { float: left; width: 130px; margin: 0px 0px 8px 0; }
+.keyword_metro_list li a { float: left; width: auto; height: 24px; padding: 0 11px; padding-right: 0; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; }
+.keyword_sq_list li.redon { background-color: #c0191f; color: #fff; }
+.keyword_jc_list li { width: 135px; }
+.keyword_jc_list li a { margin-right: 0; padding-right: 0; }
+.keyword_xzq_list li a.redon, .keyword_jc_list li a.redon, .keyword_metro_list li a.redon { background-color: #c0191f; color: #fff; }
+/*关键字弹窗浮动*/
+.keyword_pop li:hover { background-color: #C0191F; color: #FFFFFF; border-radius: 5px; -webkit-border-radius: 5px; }
+
+.keyword_pop_two { background-color: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; display: none; left: 50%; margin-left: -600px; position: absolute; top: 176px; width: 1134px; z-index: 100; padding: 22px 32px; }
+.keyword_pop_two div.zb_jt_up { left: 50%; margin-left: 122px; position: absolute; top: -8px; height: 10px; width: 20px; overflow: hidden; }
+.keyword_pop_two div.zb_jt_up i.jt_top { background-position: -294px 0; position: relative\9; left: -294px\9; top: 0px\9; width: 400px; height: 322px; }
+.keyword_pop_two p.keyword_city_title { font-size: 12px; color: #979797; padding-bottom: 18px; }
+.keyword_pop_two p.keyword_city_title b { font-weight: normal; color: #535353; }
+.keyword_pop_two_box { margin-top: -4px; }
+.keyword_pop_two_fix { font-size: 14px; color: #535353; line-height: 22px; border-bottom: 1px solid #d4d4d4; padding-bottom: 9px; margin-bottom: 8px; }
+.keyword_pop_two_fix h2 { float: left; width: 28px; padding-right: 48px; font-weight: bold; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; }
+.keyword_pop_two_fix ul { float: left; width: 1058px; }
+.keyword_pop_two_fix ul li { float: left; }
+.keyword_mc_list li { width: 224px; height: 24px; padding: 0 11px; margin: 0 106px 8px 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; }
+.keyword_mc_list li.redon { background-color: #c0191f; color: #fff; }
+.keyword_pop_two_fix ul li b { font-weight: bold; }
+.keyword_wz_list li { width: 210px; height: 24px; margin-bottom: 12px; overflow: hidden; text-overflow: ellipsis; }
+.keyword_wz_list li a { float: left; width: auto; padding: 0 11px; height: 24px; margin-bottom: 8px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; }
+.keyword_wz_list li a.redon { background-color: #c0191f; color: #fff; }
+.keyword_pop_three { background-color: #fff; border: 1px solid #d4d4d4; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; display: none; left: 50%; margin-left: -600px; position: absolute; top: 176px; width: 1166px; z-index: 100; padding: 22px 0 22px 32px; }
+.keyword_pop_three div.zb_jt_up { left: 50%; margin-left: 122px; position: absolute; top: -8px; height: 10px; width: 20px; overflow: hidden; }
+.keyword_pop_three div.zb_jt_up i.jt_top { background-position: -294px 0; position: relative\9; left: -294px\9; top: 0px\9; width: 400px; height: 322px; }
+.keyword_pop_three p.keyword_city_title { font-size: 12px; color: #979797; padding-bottom: 18px; }
+.keyword_pop_three p.keyword_city_title b { font-weight: normal; color: #535353; }
+.keyword_pop_three p.keyword_citynone_title { font-size: 14px; color: #535353; padding-bottom: 30px; }
+.keyword_pop_three p.keyword_citynone_title b { font-weight: bold; color: #232323; }
+.keyword_pop_three dl { border-top: 1px solid #d4d4d4; position: relative; padding-top: 31px; }
+.keyword_pop_three dl dt { font-size: 12px; color: #535353; background: #fff; position: absolute; left: 0; top: -6px; padding-right: 13px; }
+.keyword_pop_three dl dd { float: left; width: 252px; margin: 0px 114px 10px 0; font-size: 14px; line-height: 22px; height: 24px; padding: 0 11px; color: #535353; background: #fff; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; cursor: pointer; }
+.keyword_pop_three dl dd.redon { background: #c0191f; color: #fff; }
+.keyword_pop_three dl dd b { font-weight: bold; }
+.home_order_form_inputon { border: 1px solid #BB9861; background: #FCF5EA; }
+@media screen and (min-width:1000px) and (max-width:1199px) {
+    .main_w1200 {margin: 0 auto;width: 1000px;}
+    .pic_list .item{margin:25px 5px 0;width:450px;}
+    .list_input input { width: 154px; }
+    .list_choose { width: 376px; }
+    .list_search input { width: 225px; }
+    .list_cx_button input { width:96px; }
+    .zb_pop { width: 998px; margin-left: -500px; }
+    .zb_pop div.zb_jt_up { left: 12px; }
+    .citypop { width: 1000px; margin-left: -500px; }
+    .citypop div.zb_jt_up { left: 12px; }
+    .citypoptwo { width: 1000px; margin-left: -500px; }
+    .citypoptwo div.zb_jt_up { left: 12px; }
+    .citypopthree { width: 1000px; margin-left: -500px; }
+    .citypopthree div.zb_jt_up { left: 12px; }
+    .city_none { width: 1000px; margin-left: -500px; }
+    .city_none div.zb_jt_up { left: 12px; }
+    .keyword_pop { width: 940px; margin-left: -500px; }
+    .keyword_pop_fix ul { width: 851px; }
+    .keyword_pop_two { width: 934px; margin-left: -500px; }
+    .keyword_pop_three { width: 966px; margin-left: -500px; }
+}

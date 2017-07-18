@@ -1,0 +1,47 @@
+@charset "utf-8";
+@media screen and (min-width:1000px) and (max-width:1199px) {
+.exhibit_image img{width:1000px;}
+.text_introduce{width:900px}
+.hotel_choose .list_image{width:1000px;}
+.hotel_choose .list_image li{width:320px;margin-left:20px;}
+.hotel_choose .list_image li a{width:320px;height:370px}
+.choose_image2{margin:0 20px}
+.Popular_hotel_exhibit{width:1000px}
+.hotel_exhibit1{width:245px}
+.hotel_exhibit2{width:489px}
+.hotel_exhibit3{width:245px}
+.hotel_exhibit1 img{width:245px;height:245px}
+.hotel_exhibit2 .exhibit_mask_l{left:86px}
+.hotel_exhibit2 .exhibit_cont{left:86px}
+.hotel_exhibit2 img{width:489px;height:500px}
+.hotel_exhibit3 img{width:245px;height:500px}
+.images_list li{width:324px;height:200px;margin-left:14px;}
+.images_list li img{width:324px;height:200px;}
+/*高端*/
+.gd_homes .home_book_box{margin:154px 0 0 -496px}
+.gd_homes .keyword_pop{margin-left:-397px}
+.gd_homes .zb_pop{margin-left:-397px}
+.gd_homes .citypop{margin-left:-397px;top:314px;}
+.page_link{margin-right:42px}
+.nav_list .nav_item{margin-right:35px}
+.gd_top_logo{margin-right:10px;}
+.gd_home_top .english{position:absolute;top:0;right:0}
+.gd_introduce_con p{width:516px}
+.gd_home_image1 img{width:424px;}
+.gd_introduce_con{width:516px}
+.home_News{margin-bottom:60px}
+.gd_home_image2{width:1000px}
+.gd_home_image2 img{width:1000px;height:100%}
+.gd_home_content .images_list li{width:324px;margin-left:14px;}
+.new_home_l{width:227px;margin-right:78px}
+.new_home_r{width:695px;}
+.new_home_r .image2{width:340px;}
+.new_home_r .image3{width:340px;}
+.AD_image{margin-top:60px;width:1000px}
+.gd_home_Recommend li{width:238px;margin-left:16px}
+.gd_home_Recommend li img{width:238px;}
+.feiman_jiesao{left:168px}
+.feiman_jiesao p{width:178px}
+.gd_nanshan_home .home_Coupon .images_list li{width:490px}
+.date_box{margin-left:-215px;}
+}

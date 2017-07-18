@@ -1,0 +1,26 @@
+@charset "utf-8";
+.app_bg{ background: url(banner.jpg)/*tpa=http://images.homeinns.com/image/web/app/banner.jpg*/ top center no-repeat; height: 825px; color: #fff; position: relative;}
+.appL{ background: url(phone.png)/*tpa=http://images.homeinns.com/image/web/app/phone.png*/ left center no-repeat; width: 398px; height: 542px; position:absolute; left:50%; top:104px; margin-left:-556px; }
+.appL ul li{ float: left;padding:99px 0 0 28px; }
+#app_banner{ width:398px;}
+#app_banner ul.fix{width:398px; height:542px; position:relative; }
+#app_banner ul li{ position: absolute; left: 0; top:0; opacity:0; width: 343px; height: 443px;}
+#app_banner .dots { position: absolute;z-index:2; left:50%; right: 0; bottom:16px; margin-left:-29px;}
+#app_banner .dots li {display: inline-block; width: 6px; height:6px; margin: 0 2px; text-indent: -999em; 
+border:1px solid #fff;background:#fff; border-radius:6px; -webkit-border-radius:6px;-moz-border-radius:6px;-o-border-radius:6px; cursor: pointer;  }
+#app_banner .dots li.active{background:#C0191F;border:1px solid #fff;}
+
+.appR{ position: absolute; left:50%; top:188px; margin-left: 6px; height:542px; overflow: hidden; }
+.appR h1{ font-size: 46px; font-weight: bold; }
+.appR p{ font-size: 28px; padding:28px 0 55px 0; }
+.app_list_ewm{ margin-right:42px;}
+.app_list_button li{ cursor: pointer; position: relative; border-radius:5px; -webkit-border-radius:5px; border:1px solid #fff; width:141px; height: 57px; margin-bottom:48px;padding-left:76px;font-size: 28px;  line-height:57px;font-weight: bold; }
+.app_list_button a{color:#ffffff}
+.app_list_button li.redon{ border-color:#c50b0d; background:#c50b0d;}
+.app_list_button li code{ position: absolute;  top:1px;}
+.app_list_button li code.icon_iphone{ font-size:38px; padding:0px 20px 0 0px;left:27px;}
+.app_list_button li code.icon_android{ font-size:39px; padding:0px 15px 0 0px; left: 26px;}
+.app_nav{ position: absolute; left: 0; bottom:0px; background: #fff; filter:alpha(opacity=80);-moz-opacity:0.80;opacity:0.80; width: 100%; height: 131px; padding:48px 0px 0 0px;}
+.app_nav dl{color:#3a3a3a; float: left; text-align: center; padding-right:90px;}
+.app_nav dl dt{ font-size: 60px; padding-bottom:24px;}
+.app_nav dl dd{ font-size: 16px; }

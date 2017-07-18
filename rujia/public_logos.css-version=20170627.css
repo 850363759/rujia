@@ -1,0 +1,236 @@
+
+/*首旅旗下品牌logo展示*/
+.list_logos{width:901px;margin:0 auto;padding-bottom:90px;padding-top:85px}
+.list_logos_title{width:100%;text-align: center;font-size: 24px;color: #535353;letter-spacing: -0.58px;}
+.list_logos ul li{overflow:hidden;float:left;cursor:pointer}
+i.yunshangsiji_ms_logo,.list_logos ul li.rujiaxiaozheng_logo,
+.list_logos ul li.rujiamohe_logo {cursor:default;}
+.list_logos_items1{width:707px;margin:0 auto;margin-top:27px}
+.list_logos_items1 li{height:50px;margin-right:35px;}
+.list_logos_items2{width:503px;margin:0 auto;margin-top:32px;}
+.list_logos_items2 li{height:70px;margin-right:26px;}
+.list_logos_items2{margin-top:25px;}
+.list_logos_items3{width:885px;margin:0 auto;margin-top:32px;}
+.list_logos_items3 li{height:70px;margin-right:26px;}
+.list_logos_items4{width:807px;margin:0 auto;margin-top:32px;}
+.list_logos .list_logos_items4 li{height:40px;margin-right:37px}
+
+.jianguo_logo{width:76px;}
+.jianguo_logo .Artboard_logo{background-position:0 -60px;left:0px\9;top:-60px\9;position:relative\9} 
+.jianguo_logo .Artboard_logo.active{background-position:0 0px;left:0px\9;top:0px\9;position:relative\9}
+.lanyuan_logo{width:48px;}
+.lanyuan_logo .Artboard_logo{background-position:-86px -60px;left:-86px\9;top:-60px\9;position:relative\9} 
+.lanyuan_logo .Artboard_logo.active{background-position:-86px 0px;left:-86px\9;top:0px\9;position:relative\9}
+.jinglun_logo{width:64px;}
+.jinglun_logo .Artboard_logo{background-position:-144px -60px;left:-144px\9;top:-60px\9;position:relative\9} 
+.jinglun_logo .Artboard_logo.active{background-position:-144px 0px;left:-144px\9;top:0px\9;position:relative\9}
+.xiying_logo{width:49px;}
+.xiying_logo .Artboard_logo{background-position:-218px -60px;left:-218px\9;top:-60px\9;position:relative\9} 
+.xiying_logo .Artboard_logo.active{background-position:-218px 0px;left:-218px\9;top:0px\9;position:relative\9}
+.feiman_logo{width:58px;}
+.feiman_logo .Artboard_logo{background-position:-277px -60px;left:-277px\9;top:-60px\9;position:relative\9}
+.feiman_logo .Artboard_logo.active{background-position:-277px 0px;left:-277px\9;top:0px\9;position:relative\9} 
+.lansanxiuxian_logo{width:67px;}
+.lansanxiuxian_logo .Artboard_logo{background-position:-345px -60px;left:-345px\9;top:-60px\9;position:relative\9} 
+.lansanxiuxian_logo .Artboard_logo.active{background-position:-345px 0px;left:-345px\9;top:0px\9;position:relative\9}
+.sl_hanshe_logo{width:78px;}
+.sl_hanshe_logo .Artboard_logo{background-position:-422px -60px;left:-422px\9;top:-60px\9;position:relative\9} 
+.sl_hanshe_logo .Artboard_logo.active{background-position:-422px 0px;left:-422px\9;top:-0px\9;position:relative\9}
+.list_logos .jialebi_logo{width:22px;margin-right:0}
+.jialebi_logo .Artboard_logo{background-position:-510px -60px;left:-510px\9;top:-60px\9;position:relative\9} 
+.jialebi_logo .Artboard_logo.active{background-position:-510px 0px;left:-510px\9;top:0px\9;position:relative\9}
+
+.hy_zhizun_logo{width:52px}
+.hy_zhizun_logo .Artboard_logo{background-position:-0px -200px;left:-0px\9;top:-200px\9;position:relative\9}
+.hy_zhizun_logo .Artboard_logo.active{background-position:0px -120px;left:0px\9;top:-120px\9;position:relative\9}
+.hy_zhishang_logo{width:67px}
+.hy_zhishang_logo .Artboard_logo{background-position:-60px -200px;left:-60px\9;top:-200px\9;position:relative\9}
+.hy_zhishang_logo .Artboard_logo.active{background-position:-60px -120px;left:-60px\9;top:-120px\9;position:relative\9}
+.hy_zhige_logo{width:54px}
+.hy_zhige_logo .Artboard_logo{background-position:-134px -200px;left:-134px\9;top:-200px\9;position:relative\9}
+.hy_zhige_logo .Artboard_logo.active{background-position:-134px -120px;left:-134px\9;top:-120px\9;position:relative\9}
+.rj_jingxuan_logo{width:66px}
+.rj_jingxuan_logo .Artboard_logo{background-position:-198px -200px;left:-198px\9;top:-200px\9;position:relative\9}
+.rj_jingxuan_logo .Artboard_logo.active{background-position:-198px -120px;left:-198px\9;top:-120px\9;position:relative\9}
+.rj_sl_logo{width:66px}
+.rj_sl_logo .Artboard_logo{background-position:-274px -200px;left:-274px\9;top:-200px\9;position:relative\9}
+.rj_sl_logo .Artboard_logo.active{background-position:-274px -120px;left:-274px\9;top:-120px\9;position:relative\9}
+.list_logos .yiju_logo{width:66px;margin-right:0}
+.yiju_logo .Artboard_logo{background-position:-350px -200px;left:-350px\9;top:-200px\9;position:relative\9}
+.yiju_logo .Artboard_logo.active{background-position:-350px -120px;left:-350px\9;top:-120px\9;position:relative\9}
+
+.rujia_logo{width:64px;}
+.rujia_logo .Artboard_logo{background-position:0 -360px;left:0px\9;top:-360px\9;position:relative\9}
+.rujia_logo .Artboard_logo.active{background-position:0 -280px;left:0px\9;top:-280px\9;position:relative\9}
+.motai_logo{width:64px}
+.motai_logo .Artboard_logo{background-position:-74px -360px;left:-74px\9;top:-360px\9;position:relative\9}
+.motai_logo .Artboard_logo.active{background-position:-74px -280px;left:-74px\9;top:-280px\9;position:relative\9}
+.yunshangsiji_jiudian_logo{width:73px}
+.yunshangsiji_jiudian_logo .Artboard_logo{background-position:-148px -360px;left:-148px\9;top:-360px\9;position:relative\9}
+.yunshangsiji_jiudian_logo .Artboard_logo.active{background-position:-148px -280px;left:-148px\9;top:-280px\9;position:relative\9}
+.yunshangsiji_ms_logo{width:73px}
+.yunshangsiji_ms_logo .Artboard_logo{background-position:-231px -360px;left:-231px\9;top:-360px\9;position:relative\9}
+.yunshangsiji_ms_logo .Artboard_logo.active{background-position:-231px -280px;left:-231px\9;top:-280px\9;position:relative\9}
+.yake_logo{width:93px}
+.yake_logo .Artboard_logo{background-position:-314px -360px;left:-314px\9;top:-360px\9;position:relative\9}
+.yake_logo .Artboard_logo.active{background-position:-314px -280px;left:-314px\9;top:-280px\9;position:relative\9}
+.xingyandu_logo{width:60px}
+.xingyandu_logo .Artboard_logo{background-position:-417px -360px;left:-417px\9;top:-360px\9;position:relative\9}
+.xingyandu_logo .Artboard_logo.active{background-position:-417px -280px;left:-417px\9;top:-280px\9;position:relative\9}
+.shubo_yun_logo{width:96px}
+.shubo_yun_logo .Artboard_logo{background-position:-487px -360px;left:-487px\9;top:-360px\9;position:relative\9}
+.shubo_yun_logo .Artboard_logo.active{background-position:-487px -280px;left:-487px\9;top:-280px\9;position:relative\9}
+.ruibo_logo{width:89px}
+.ruibo_logo .Artboard_logo{background-position:-591px -360px;left:-591px\9;top:-360px\9;position:relative\9}
+.ruibo_logo .Artboard_logo.active{background-position:-591px -280px;left:-591px\9;top:-280px\9;position:relative\9}
+.list_logos .paibo_logo{width:64px;margin-right:0}
+.paibo_logo .Artboard_logo{background-position:-690px -360px;left:-690px\9;top:-360px\9;position:relative\9}  
+.paibo_logo .Artboard_logo.active{background-position:-690px -280px;left:-690px\9;top:-280px\9;position:relative\9}
+
+.rujiaxiaozheng_logo{width:181px}
+.rujiaxiaozheng_logo .Artboard_logo{background-position:0px -490px;left:0px\9;top:-490px\9;position:relative\9}  
+.rujiaxiaozheng_logo .Artboard_logo.active{background-position:0px -440px;left:0px\9;top:-440px\9;position:relative\9}
+.rujiamohe_logo{width:155px}
+.rujiamohe_logo .Artboard_logo{background-position:-191px -490px;left:-191px\9;top:-490px\9;position:relative\9}  
+.rujiamohe_logo .Artboard_logo.active{background-position:-191px -440px;left:-191px\9;top:-440px\9;position:relative\9}
+.douhaogongyu_logo{width:79px}
+.douhaogongyu_logo .Artboard_logo{background-position:-355px -490px;left:-355px\9;top:-490px\9;position:relative\9} 
+.douhaogongyu_logo .Artboard_logo.active{background-position:-355px -440px;left:-355px\9;top:-440px\9;position:relative\9} 
+.qingchaogongyu_logo{width:104px}
+.qingchaogongyu_logo .Artboard_logo{background-position:-444px -490px;left:-444px\9;top:-490px\9;position:relative\9} 
+.qingchaogongyu_logo .Artboard_logo.active{background-position:-444px -440px;left:-444px\9;top:-440px\9;position:relative\9} 
+.list_logos .list_logos_items4 .douhaozhijia_logo{width:126px;margin-right:0}
+.douhaozhijia_logo .Artboard_logo{background-position:-558px -490px;left:-558px\9;top:-490px\9;position:relative\9} 
+.douhaozhijia_logo .Artboard_logo.active{background-position:-558px -440px;left:-558px\9;top:-440px\9;position:relative\9} 
+.Artboard_logo{
+    background-image: url(Artboardnew.png)/*tpa=http://images.homeinns.com/image/web/Artboardnew.png*/;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 1000px;
+    height: 1000px;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;   
+}
+.Artboard_logo_ie {
+    background-image: url();
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 1000px;
+    height: 1000px;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://images.homeinns.com/image/web/Artboardnew.png',
+    sizingMethod='scale') !important
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { 
+   .Artboard_logo_ie{
+    background-image:url(Artboardnew.png)/*tpa=http://images.homeinns.com/image/web/Artboardnew.png*/;
+    background-image:url()\9;
+    background-repeat:no-repeat;
+    display:inline-block;
+    width:1000px;height:1000px;
+    background-size:100% 100%;
+    -webkit-background-size:100% 100%;
+    -moz-background-size:100% 100%;
+    -o-background-size:100% 100%;	
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://images.homeinns.com/image/web/Artboardnew.png',
+    sizingMethod='scale')}
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { 
+	/*.jianguo_logo .Artboard_logo{
+		position:static !important
+	}
+	.lanyuan_logo .Artboard_logo{
+		position:static !important
+	}
+	.jinglun_logo .Artboard_logo{
+		position:static !important
+	}
+	.jinglun_logo .Artboard_logo{
+		position:static !important
+	}
+	.xiying_logo .Artboard_logo{
+		position:static !important
+	}
+	.feiman_logo .Artboard_logo{
+		position:static !important
+	}
+	.lansanxiuxian_logo .Artboard_logo{
+		position:static !important
+	}
+	.sl_hanshe_logo .Artboard_logo{
+		position:static !important
+	}
+	.jialebi_logo .Artboard_logo{
+		position:static !important
+	}
+	.hy_zhizun_logo .Artboard_logo{
+		position:static !important
+	}
+	.hy_zhishang_logo .Artboard_logo{
+		position:static !important
+	}
+	.hy_zhige_logo .Artboard_logo{
+		position:static !important
+	}
+	.rj_jingxuan_logo .Artboard_logo{
+		position:static !important
+	}
+	.rj_sl_logo .Artboard_logo{
+		position:static !important
+	}
+	.yiju_logo .Artboard_logo{
+		position:static !important
+	}
+	.rujia_logo .Artboard_logo{
+		position:static !important
+	}
+	.motai_logo .Artboard_logo{
+		position:static !important
+	}
+    .gd_jianguo_home .gd_logos .brands_logo{
+        position:static !important
+    }
+	.yunshangsiji_jiudian_logo .Artboard_logo{
+		position:static !important
+	}
+	.yunshangsiji_ms_logo .Artboard_logo{
+		position:static !important
+	}
+	.yake_logo .Artboard_logo{
+		position:static !important
+	}
+	.xingyandu_logo .Artboard_logo{
+		position:static !important
+	}
+	.shubo_yun_logo .Artboard_logo{
+		position:static !important
+	}
+	.ruibo_logo .Artboard_logo{
+		position:static !important
+	}
+	.paibo_logo .Artboard_logo{
+		position:static !important
+	}
+	.rujiaxiaozheng_logo .Artboard_logo{
+		position:static !important
+	}
+	.rujiamohe_logo .Artboard_logo{
+		position:static !important
+	}
+	.douhaogongyu_logo .Artboard_logo{
+		position:static !important
+	}
+	.qingchaogongyu_logo .Artboard_logo{
+		position:static !important
+	}*/
+	.Artboard_logo{
+		position:static !important
+	}
+}

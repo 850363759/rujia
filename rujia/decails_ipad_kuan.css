@@ -1,0 +1,111 @@
+@charset "utf-8";
+@media screen and (min-width:1200px) {
+    .zh_1000{display:none}
+}
+@media screen and (min-width:1000px) and (max-width:1199px) {
+ .zh_1200{display:none}
+ .zh_1000{display:block}
+.main_w1200{ margin: 0 auto; width: 1000px;}
+.list_introduce_l{width:800px} 
+.list_introduce{margin-top:20px}
+.list_intro_gift{width:360px;padding:0;margin-right:0;}
+.ticket_tip_tk{right:-37px}
+.zero_tip_tk {right: 76px;}
+.langman_tip_tk {right: 165px;}
+.remark_on{width:172px}
+.sl_image_pic{width:790px}
+.sl_image_pic .pic1{width:384px}
+.sl_image_pic .pic2{width:192px}
+.sl_image_pic .pic3{width:92px}
+.sl_image_pic .pic4{width:92px}
+.sl_image_pic .pic5{width:92px}
+.sl_image_pic .pic6{width:92px}
+.sl_image_pic .pic7{width:92px}
+.sl_image_pic .pic8{width:92px}
+.rj_image_pic{width:790px}
+.rj_image_pic .pic1{width:184px}
+.rj_image_pic .pic2{width:192px}
+.rj_image_pic .pic3{width:192px}
+.rj_image_pic .pic4{width:192px}
+.rj_image_pic .pic5{width:92px}
+.rj_image_pic .pic6{width:292px}
+.rj_image_pic .pic7{width:92px}
+.rj_image_pic .pic8{width:92px}
+.remark_on .tab_list .list{width:109px;}
+.remark_on .tab_list .list li{width:109px}
+.remark_on .grade .feedback_rate{float:none;height:32px;}
+.remark_on .grade .synthesiz_score{float:none;padding-left:0px;}
+.remark_on .grade .feedback_rate{width:100%;border-radius:none}
+.remark_on .grade .feedback_rate p{float:left;}
+.remark_on .grade .feedback_rate span{float:left;margin-left:13px;margin-top:10px;}
+.remark_on_name{margin-top:15px;}
+.remark_on .tab_list{margin-top:23px;}
+.remark_on .tab_list a{margin-top:46px}
+.remark_on .tab_list a.next{margin-left:9px;}
+.Customers_booking .clientele p{width:966px}
+.hotelRoomBox dl dd{width:899px;}
+.hotelRoomBox .tr1 .th1{width:151px;}
+.hotelRoomBox .tr1 .th4{width:487px}
+.hotelRoomBox .tr1 .th4 p{  padding-left: 172px;width: 400px;}
+.table_list .td4 .span3 {padding: 4px 0 0;}
+.table_list .td1{width:141px;}
+.table_list .td4{width:487px;}
+.table_list .td4 .xq_1{width:97px}
+.table_list .td4 .span4{width:96px}
+.table_list .td4 .span5{margin-left:55px}
+.hotel_information_l{width:736px}
+.information .information_list p{width:590px}
+.information .information_list ul{width:590px}
+.information .information_list ul li{margin-right:35px;}
+.traffic_map .map{width:100%}
+.traffic_map .cate_list{width:712px;overflow: hidden;}
+.user_reviews_cont{width:704px;padding:0 14px 24px 14px}
+.user_reviews_top .whole{margin-left:19px;}
+.user_reviews_top .grade .synthesiz_score{margin-left:3px}
+.user_reviews_top .whole ul{width:393px}
+.user_reviews_top .whole ul li{margin-right:6px}
+.user_reviews_top .user_reviews_btn{width:40px;height:32px;line-height:16px;padding:4px 0}
+.list_label a{margin-right:15px;}
+.user_review_list dl dt{  margin-right: 24px;}
+.user_review_list dl dd{width:570px;padding-left:30px}
+.user_reviews_cont_zh{padding:0;  width: 732px;}
+.hotel_information_r{width:253px;}
+.hotel_information_r .head_top{width:253px}
+.hotel_information_r .nearby_hotel{width:253px}
+.nearby_hotel dl dt .image{width:217px}
+.nav_top_two .nav_list a{margin:0 16px}
+.nav_top_two .nav_time .list_choose{ width:355px; padding-left: 10px;margin-left:0}
+.nav_top_two .nav_time p{margin:13px 27px 0 27px}
+.nav_top_two .list_cx_button a{width:100px}
+.list_room_money{left:-31px}
+.list_login_money{left: 30px;}
+.list_room{width:1000px}
+.list_room_tj_top{width:1000px;}
+.list_room_w215{width:240px}
+.list_room_tj_row{width:1000px;}
+.list_room_fixbox{width:673px}
+.list_room_w154{width:144px}
+.list_room_w88{margin-left:7px; padding-left:7px;}
+.list_room_w345{width:428px}
+.price_row{ padding-right:30px; padding-left:0;}
+.list_room_num{width:137px;}
+.list_room_w345 .list_room_money{left:-15px}
+.list_room_w345 .list_login_money{left:48px}
+.date_box{margin-left:-479px;}
+.date_box.select {margin-left: -170px;}
+.nearby_hotel dl dt .image div{width:217px}
+.pc_image{width:253px;}
+.pc_image img{width:253px;}
+.list_room_w193 { padding: 0 30px 0 38px;}
+.list_room_w236 { padding: 19px 30px 23px 0;}
+.list_room_w268 {margin-left:115px;}
+.list_room_tj_row .list_room_w236{padding: 19px 30px 23px 0;}
+.rj_hotel_information_cont{margin-bottom:25px;margin-top:50px;}
+.four_star_icon{right:7px;}
+.information .information_list ul dl.service_iconfix dd {width:147px;}
+.information .information_list ul dl.service_iconfix dd a { width:96px;}
+}
+@media screen and (min-width:1000px) and (max-width:1017px) {
+    .pc_image{width:245px;}
+    .pc_image img{width:245px;}
+}

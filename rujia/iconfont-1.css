@@ -1,0 +1,115 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot-t=1497328870019')/*tpa=http://www.bthhotels.com/Content/Recruit/css/iconfont.eot?t=1497328870019*/; /* IE9*/
+  src: url('iconfont.eot-t=1497328870019#iefix')/*tpa=http://www.bthhotels.com/Content/Recruit/css/iconfont.eot?t=1497328870019#iefix*/ format('embedded-opentype'), /* IE6-IE8 */
+  url('home')/*tpa=http://www.bthhotels.com/Content/Recruit/css/iconfont.woff?t=1497328870019*/ format('woff'), /* chrome, firefox */
+  url('iconfont.ttf-t=1497328870019')/*tpa=http://www.bthhotels.com/Content/Recruit/css/iconfont.ttf?t=1497328870019*/ format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg-t=1497328870019#iconfont')/*tpa=http://www.bthhotels.com/Content/Recruit/css/iconfont.svg?t=1497328870019#iconfont*/ format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhifeiji:before { content: "\e60f"; }
+
+.icon-roundrightfill:before { content: "\e65a"; }
+
+.icon-roundright:before { content: "\e65b"; }
+
+.icon-dingwei:before { content: "\e61d"; }
+
+.icon-peixun:before { content: "\e602"; }
+
+.icon-jinlingyingcaiwangtubiao28:before { content: "\e7a5"; }
+
+.icon-jiantou:before { content: "\e66d"; }
+
+.icon-dingwei1:before { content: "\e61c"; }
+
+.icon-lubiao0:before { content: "\e725"; }
+
+.icon-kaoqinxiujiaguanli:before { content: "\e864"; }
+
+.icon-552cc34f70431:before { content: "\e606"; }
+
+.icon-iconfontdianhua5:before { content: "\e613"; }
+
+.icon-youjian:before { content: "\e61b"; }
+
+.icon-tijian:before { content: "\e6ea"; }
+
+.icon-sport:before { content: "\e618"; }
+
+.icon-gerenjianli:before { content: "\e615"; }
+
+.icon-yanjing:before { content: "\e62c"; }
+
+.icon-lvyou:before { content: "\e60d"; }
+
+.icon-xunzhang:before { content: "\e693"; }
+
+.icon-huiyuanmingdan:before { content: "\e713"; }
+
+.icon-add:before { content: "\e617"; }
+
+.icon-iconjulebu:before { content: "\e603"; }
+
+.icon-butie:before { content: "\e630"; }
+
+.icon-shouye-copy-copy-copy:before { content: "\e601"; }
+
+.icon-file-checkmark:before { content: "\e67b"; }
+
+.icon-jiangjin:before { content: "\e748"; }
+
+.icon-liebiao:before { content: "\e661"; }
+
+.icon-wenjianguanli:before { content: "\e60b"; }
+
+.icon-tuandui:before { content: "\e698"; }
+
+.icon-gongzixiangmu:before { content: "\e66c"; }
+
+.icon-ren:before { content: "\e6e7"; }
+
+.icon-juhui:before { content: "\e619"; }
+
+.icon-fujianleixingyasuobao:before { content: "\e6fe"; }
+
+.icon-shengri1:before { content: "\e604"; }
+
+.icon-new:before { content: "\e600"; }
+
+.icon-fujian-:before { content: "\e609"; }
+
+.icon-canyin:before { content: "\e647"; }
+
+.icon-jiudian:before { content: "\e668"; }
+
+.icon-baoxian:before { content: "\e656"; }
+
+.icon-sousuo_sousuo:before { content: "\e605"; }
+
+.icon-chadiao:before { content: "\e635"; }
+
+.icon-fujian:before { content: "\e9b1"; }
+
+.icon-roundleft:before { content: "\e865"; }
+
+.icon-roundrightfill-copy:before { content: "\e866"; }
+
+.icon-jiantou-copy:before { content: "\e867"; }
+
+.icon-homeinnslogo:before { content: "\e664"; }
+
+.icon-wenjian:before { content: "\e607"; }
+
+.icon-jiantou-copy-copy:before { content: "\e9b2"; }
+
+.icon-jiantou-copy-copy-copy:before { content: "\e9b3"; }
+

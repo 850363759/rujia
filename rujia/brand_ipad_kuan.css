@@ -1,0 +1,73 @@
+@charset "utf-8";
+@media screen and (max-width: 1320px) and (min-width: 1200px){
+       .home_all_icon{left: 11px;top: 4px;} 
+}
+@media screen and (max-width: 1280px) and (min-width: 1200px){
+    .main_w1200 { width:1200px;}
+    .prefer_box {width:370px;}
+    .prefer_box a img {width:370px; max-width:100%;}
+}
+@media screen and (min-width:1000px) and (max-width:1199px) {
+.main_w1200 { width:1000px;}
+.home_logo_name li {padding-right: 49px;}
+.home_logo_name li.redon {font-size: 17px;}
+.home_logo_name li.nameon {font-size:17px;}
+.home_all_icon {left:11px; top:4px;}
+.home_logos_tk code{margin-left:449px;}
+.home_logo_nav li { height:98px;}
+.home_logo_nav li.home_jianguo_logobg{ left: 0;width:166px;}
+.home_logo_nav li.home_puyin_logobg{left:186px;width:128px;}
+.home_logo_nav li.home_nanyuan_logobg{left:334px;width:127px;}
+.home_logo_nav li.home_jinglun_logobg{left:481px;width:150px;}
+.home_logo_nav li.home_feiman_logobg{left:651px;width:140px;}
+.home_logo_nav li.home_nanshan_logobg{left:811px;width:151px;}
+
+.home_logo_nav li.home_heyi_zhizun_logobg{left:0px;width:91px;}
+.home_logo_nav li.home_heyi_zhishang_logobg{left:99px;width:102px;}
+.home_logo_nav li.home_heyi_zhige_logobg{left:209px;width:94px;}
+.home_logo_nav li.home_jingxuan_logobg{left:311px;width:105px;}
+.home_logo_nav li.home_shanglv_logobg{left:424px;width:103px;}
+.home_logo_nav li.home_yiju_jin_logobg{left:535px;width:107px;}
+.home_logo_nav li.home_subo_logobg{left:650px;width:170px;}
+.home_logo_nav li.home_ruibo_logobg{left:828px;width:162px;}
+
+.home_logo_nav li.home_rujia_logobg{left:0px;width:103px;}
+.home_logo_nav li.home_motai_logobg{left:123px;width:106px;}
+.home_logo_nav li.home_yssj_logobg{left:249px;width:114px;}
+.home_logo_nav li.home_yiju_lan_logobg{left:383px;width:107px;}
+.home_logo_nav li.home_xinyandu_logobg{left:510px;width:110px;}
+.home_logo_nav li.home_yake_logobg{left:640px;width:152px;}
+.home_logo_nav li.home_paibo_logobg{left:812px;width:129px;}
+
+.home_logo_nav li.home_hanshe_logobg{left:200px;width:148px;}
+.home_logo_nav li.home_jialebi_logobg{left:388px;width:70px;}
+.home_logo_nav li.home_xiaozhen_logobg{left:498px;width:132px;}
+.home_logo_nav li.home_yssj_minsu_logobg{left:670px;width:113px;}
+
+.home_logo_nav li.home_rujia_lianmeng_logobg{left:200px;width:211px;}
+.home_logo_nav li.home_huayi_logobg{left:586px;width:211px;}
+
+.home_logo_nav li.home_douhao_logobg{left:200px;width:180px;}
+.home_logo_nav li.home_qingchao_logobg{left:420px;width:180px;}
+.home_logo_nav li.home_douhao_zhijia_logobg{left:640px;width:180px; padding-top:35px; height:78px; }
+
+
+.home_big_img1 dl {margin-left:121px;}
+.home_logo_name { width:1000px;}
+.prefer_box {width:320px;margin: 0 12px 44px 0px!important;}
+.prefer_box a img{ width:320px; max-width:100%;}
+.sub_box dl { width:245px; padding-left:10px;}
+.sub_imgbox { width:671px;}
+.sub_imgC { display:none;}
+.sub_imgR { margin-left:4px;}
+.hotel_open_nav li { width:500px;}
+.hotel_open_list dl { margin-right:20px;}
+.hotel_open_list dl dt img { width:320px; height:370px;}
+.main_pc .sy_pop_fix{width:1000px;}
+.main_pc .sy_pop_fix .date_box{margin-left:-335px;}
+.main_pc .sy_pop_fix .date_box div.zb_jt_up{margin-left:-182px;}
+.main_pc .sy_pop_fix .date_box.right div.zb_jt_up{margin-left:30px;}
+
+.hot_tj li { width:308px; height:308px; margin-right:37px;}
+.hot_tj li b { font-size:16px; left:10px;}
+}

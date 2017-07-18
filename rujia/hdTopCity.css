@@ -1,0 +1,117 @@
+/* 搜索城市框 */	
+	.head_city{
+		position: absolute;
+		z-index: 999;
+		margin-top: 50px;
+		background: #fff;
+	    border: 1px solid #d4d4d4;
+	    border-radius: 5px;
+	    display: none;
+	}
+
+	/* 三个盒子共用 */
+	.data_box,.data_box2,.data_box3{
+		padding: 20px 30px;
+		color: #535353;
+		font-size: 14px;
+		display: none;
+	}
+
+	.data_box .head_tip,.data_box2 .tips,.data_box3 .tips{
+		font-size: 12px;
+	}
+	/* line */
+
+	.search_record{
+		margin-top: 20px;
+	}
+	.history_search .tit{
+		font-weight: bold;
+		padding-top: 5px;
+	}
+	.history_search .cont{
+		margin-left: 100px;
+	}
+	.history_search .cont ul li{
+		float: left;
+		padding: 5px 10px;
+		border-radius: 5px;
+		margin-right: 10px;
+		cursor: pointer;
+	}
+	.history_search .cont ul li:hover{
+		color: #fff;
+		background-color: #366dae;
+
+	}
+	.letter_nav ul{
+		border-bottom: 1px solid #d4d4d4;
+		padding: 20px 0 10px;
+	}
+	.letter_nav ul li{
+		float: left;
+		margin-right: 50px;
+		cursor: pointer;
+	}
+
+	.letter_nav ul li.current{
+		color: #366dae;
+		cursor: pointer;
+	}
+	.search_res ul li{
+		float: left;
+		margin: 10px 0;
+		
+	}
+	.search_res ul li a{
+		padding: 5px 10px;
+		border-radius: 5px;
+		display: block;
+		margin-right: 10px;
+		cursor: pointer;
+	}
+	.search_res ul li a:hover{
+		color: #fff;
+		background-color: #366dae;
+
+	}
+
+	/* line */
+
+	.data_box2 .search_res li{
+		width: 25%;
+		margin-right: 40px;
+		padding: 4px 0 4px 10px;
+		cursor: pointer;
+	}
+	.data_box2 .search_res li:hover{
+		color: #fff;
+		background-color: #366dae;
+		border-radius: 5px;
+	}
+	.data_box2 .search_res li b{
+		margin-right: 5px;
+	}
+	.data_box2 .page_num {
+		margin-top: 20px;
+		text-align: center;
+	}
+	.data_box2 .page_num span{
+		display: inline-block;
+		border: 1px solid  #d4d4d4;
+		padding:2px 5px;
+		border-radius: 5px;
+		margin: 0 2px;
+		cursor: pointer;
+	}
+	.data_box2 .page_num span.current,.data_box2 .page_num span:hover{
+		background-color:#366dae;
+		border-color: #366dae;
+		color: #fff;
+	}
+
+	/* line */
+	.data_box3  .no_res{
+		text-align: center;
+		padding: 40px;
+	}

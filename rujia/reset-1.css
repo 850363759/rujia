@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+　　      -webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td {
+	
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align:baseline;
+}
+body {
+	line-height: 1;
+	font-size:12px;
+/*	Font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+*/
+    Font-family: "微软雅黑";
+}
+input{Font-family: "微软雅黑";outline: none;border: none;-webkit-appearance: none;appearance: none;}
+ol, ul,li {
+	list-style: none;
+}
+a,img,button,input,textarea {-webkit-tap-highlight-color: rgba(255, 255, 255, 0);appearance:none;-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;}
+
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+a{ text-decoration:none;-webkit-appearance:none;}
+a,img,button,input,textarea{-webkit-tap-highlight-color:rgba(255,255,255,0);}
+input,button,textarea{-webkit-appearance:none;outline: none;border: none;}
+a:link{ text-decoration:none;color: #535353;}
+a:visited{ text-decoration:none;color: #535353;}
+a:hover{ text-decoration:none;outline:none;color: #535353;}
+a:active, a:focus {outline:none;color: #535353;}
+
+/*浮动相关*/
+.fl{float:left;}
+.fr{float:right;}
+.clearfix:after {
+    display: block;
+    content: "";
+    height: 0;
+    clear: both;
+}
+
+.clearfix {
+    zoom:1
+}
+
+.main_w1200{ width:1200px; margin:0px auto;}
+
+.popup{position:absolute;left:0;top:0px; background:#000;filter:alpha(opacity=70);-moz-opacity:0.70;opacity:0.70;z-index:9990;width:100%; display:none; height:100%;}
+i{ background-image:url(home)/*tpa=http://www.bthhotels.com/Content/Recruit/image/web/public_img.png*/;background-repeat:no-repeat;display:inline-block; width: 400px; height: 127px; background-size:400px 127px;-webkit-background-size:400px 127px;-moz-background-size:400px 127px;-o-background-size:400px 127px; }
+

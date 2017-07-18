@@ -1,0 +1,358 @@
+/*@media screen and (min-width: 1000px) {*/
+	.banxin{
+		width: 1200px;
+		margin: 0 auto;
+	}
+	.main{
+		position: relative;
+	}
+	/* 头部导航 */
+	.main .top_nav{
+		width: 100%;
+		height: 42px;
+		background:#1D1D26;
+	}
+	.main .navFixed{
+         -webkit-opacity: 0.8;  
+        -moz-opacity: 0.8;  
+        -khtml-opacity: 0.8;  
+        opacity: .8;  
+        filter:alpha(opacity=80);  
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 999;
+	}
+	.main .top_nav .left_nav{
+		height: 100%;
+		width: 80%;
+	}
+	.main .top_nav .nav_list{
+		height: 100%;
+	}
+	.main .top_nav .nav_list li{
+		float: left;
+		height: 100%;
+	    width: 16.666%;
+		line-height: 42px;
+		position: relative;
+	}
+	.main .top_nav .nav_list li a,.main .top_nav .nav_list li .sc_nav{
+		display: block;
+		height: 42px;
+		width: 100%;
+		text-align: center;
+		color: #fff;
+		font-size: 16px;
+		cursor: pointer;
+	}
+	.main .top_nav .nav_list li.school .second_nav{
+		position: absolute;
+		top: 39px;
+		left: 0;
+		width: 100%;
+		z-index: 1;
+		display: none;
+
+	}
+	.main .top_nav .nav_list li.school a{
+		background-color: #3c6da9\9;
+		background:rgba(59,108,168,.8);
+	}
+
+	.main .top_nav .nav_list li a.current,.top_nav .nav_list li div.current,.main .top_nav .nav_list li a:hover,.top_nav .nav_list li .sc_nav:hover{
+	    background-color: #366dae;
+	    font-size: 16px;
+	    color: #fff;
+	    text-align: center;
+
+	}
+	.main .top_nav .right_nav a{
+		display: block;
+		height: 42px;
+		line-height: 42px;
+		color: #fff;
+        padding: 0 20px;
+	}
+    .main .top_nav .right_nav a:hover{
+        background:#215592;
+    }
+	.main .top_nav .right_nav a span.resume{
+		font-size: 16px;
+	}
+
+	.main .top_nav .right_nav a span.iconfont{
+		display: inline-block;
+		margin-right: 8px;
+		font-size: 20px;
+		vertical-align: middle;
+	}
+	/* 搜索导航 */
+	.search_nav{
+		height: 44px;
+	}
+	.search_nav input{
+		padding: 0;
+		height: 42px;
+		line-height: 42px;
+		border-radius: 5px;
+		text-indent: 24px;
+		vertical-align: middle;
+		outline: none;
+		border: 1px solid #d4d4d4;
+	}
+	.search_nav .city_input {
+		width: 190px;
+		color: #535353;
+	}
+	.search_nav .department_Select {
+	    width: 208px;
+	    font-size: 14px;
+	    color: #535353;
+	    margin-left: 10px;
+	    font-family: "微软雅黑";
+		border-radius: 5px;
+		padding: 12px 0 11px 24px;
+		padding: 10px 10px 10px 24px\0;
+		vertical-align: middle;
+		outline: none;
+		border: 1px solid #d4d4d4;
+
+	}
+	.search_nav input.keyword_input {
+	    width: 390px;
+	    
+	    font-size: 14px;
+	    margin-left: 10px;
+	    margin-right: 10px;
+	}
+
+	.search_nav .search_btn {
+	    width: 154px;
+	    height: 44px;
+	    background-color: #366dae;
+	    font-size: 20px;
+	    color: #fff;
+	    border-radius: 5px;
+	    cursor: pointer;
+	    font-family: '微软雅黑';
+        text-indent:0;
+        text-align:center;
+	}
+	.search_nav button.search_btn:hover{
+		background-color: #4d84c8;
+	}
+
+	.bread_nav {
+	    height: 42px;
+	    width: 1000px;
+	    line-height: 42px;
+	    margin: 0 auto;
+	    padding-left: 25px;
+	    font-size: 14px;
+	    color: #b2b2b2;
+	    background: url(right_arrow.png)/*tpa=http://images.homeinns.com/image/recruitImg/index/right_arrow.png*/ 9px center no-repeat;
+	}
+
+	.fill_form ul li .filebox .tip2 {
+	    position: absolute;
+	    top: 28px;
+	    color: #979797;
+	    font-size: 12px;
+	}
+
+
+	
+		
+	/* 移动端显示 PC端影藏 */
+	.nav_icon,.top_nav .left_nav .mb_nav_list ,.mb_footer,input#my-input{
+		display: none;
+	}
+    .zhegai{
+        position:fixed;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        background:#000 ;
+        z-index:1000;
+        filter:alpha(opacity=80);          
+        -moz-opacity:0.8;  
+        -moz-opacity:0.8;         
+        -khtml-opacity: 0.8;          
+        opacity: 0.8;  
+        display:none;
+    }
+    .loadImg{
+        position:fixed;
+        z-index:1001;
+        top:50%;
+        left:50%;
+        margin-left:-128px;
+        margin-top:-44px;
+        display:none;
+    }
+/*}*/
+/*@media screen and (max-width: 999px) {*/
+	/* 移动端隐藏 PC端显示 */
+	/*.mb_hidden,div.top,div.footer,div.footer_tip{
+		display: none;
+	}
+	html,body{
+		width: 100%;
+		height: 100%;
+		overflow: auto;
+		-webkit-overflow-scrolling:touch;
+		overflow-scrolling:touch;
+	}
+	.main{
+		height: 100%;
+		overflow: hidden;
+	}
+
+	.slide_body{
+		height: 100%;
+		overflow: auto;
+	}
+
+
+	.banxin{
+		padding: 0 20px;
+	}
+	.top_nav{
+		width: 100%;
+		height: 72px;
+		position: fixed;
+		top: 0;
+		left: 0;
+		background: #215592 url(http://images.homeinns.com/image/recruitImg/index/logo.png) center  no-repeat;
+		-webkit-background-size: 170px 34px;
+		background-size: 170px 34px;
+		z-index: 999;
+	}
+	.nav_icon{
+		font-size: 30px;
+		position: absolute;
+		top: 22px;
+		left: 20px;
+		color: #fff;
+		cursor: pointer;
+		z-index: 1;
+	}
+
+	.my_resume{
+		display: none;
+	}
+	.top_nav .left_nav{
+		position: fixed;
+		background-color: #fff;
+		top:72px;
+		left: -100%;
+		width: 100%;
+		height: 100%;
+		transition:all .4s;
+		-webkit-transition:all .4s;
+		overflow: auto;
+
+	}*/
+
+	/*.top_nav .left_nav .nav_list{
+		display: none;
+	}
+	.top_nav .left_nav .mb_nav_list{
+		background:#fff;
+		height: 80%;
+		overflow: auto;
+		-webkit-overflow-scrolling:touch;
+		overflow-scrolling:touch;
+
+	}
+	.mb_nav_list li a,.mb_nav_list li .item{
+		display: block;
+		padding: 20px ;
+		font-size: 18px;
+		color: #333333;
+		border-bottom: 1px solid #dce3ea;
+	}
+	.mb_nav_list li .item{
+		padding-left: 16px;
+		border-left: 4px solid  #fff;
+	}
+	.mb_nav_list li .active{
+		border-left: 4px solid  #366dae;
+		color:#366dae; 
+		box-sizing:border-box;
+
+	}
+	.mb_nav_list li .current{
+		color: #366dae;
+	}
+	.mb_nav_list li .sec_item{
+		display: none;
+	}
+	.mb_nav_list li a.sec_nav{
+		padding-left: 56px;
+	}
+	.mb_nav_list li span.iconfont{
+		font-size: 20px;
+		margin-right: 16px;
+	}
+
+	.mb_nav_list li .item .arrow{
+		color: #366dae;
+	}*/
+
+
+	/* 搜索 */
+	/*.search_nav {
+		margin: 20px 0 16px;
+	    border-radius: 5px;
+	    vertical-align: middle;
+        border: 1px solid #d4d4d4;
+	    color: #535353;
+	    position: relative;
+	    overflow: hidden;
+	    margin-top: 90px;
+	}
+	.search_nav input{
+		padding: 10px 0;
+	    width: 100%;
+	    text-indent: 20px;
+	    font-size: 16px;
+	    content: #535353;
+	}
+	.search_nav .mb_search_btn{
+		position: absolute;
+		top: 0;
+		right: 0;
+		height: 100%;
+		padding: 0 20px;
+		line-height: 38px;
+		font-size: 24px;
+		color: #d4d4d4;
+	}
+	
+}*/
+
+
+
+
+select{
+	    -appearance: none;
+	    -webkit-appearance: none;
+	    -moz-appearance: none;
+	    background: #fff url(donwArrow.png)/*tpa=http://images.homeinns.com/image/recruitImg/index/donwArrow.png*/ 95% center no-repeat;
+	    background: #fff\0;
+	    font-family: "微软雅黑";
+	    position: relative;
+
+}
+select:after{
+	display: block;
+	content: '';
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 0;
+	right: 0;
+}
